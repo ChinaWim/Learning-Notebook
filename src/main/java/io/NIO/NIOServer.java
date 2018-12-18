@@ -65,8 +65,7 @@ class NIOServerRead implements Runnable {
         ByteBuffer buffer = ByteBuffer.allocate(1024);
         try {
             int len = 0;
-            //如果sc.read(buffer) == -1 说明读到sc的流关闭
-            while ((len = socketChannel.read(buffer)) != -1) {
+            while ((len = socketChannel.read(buffer)) > 0) {
                 buffer.flip();
                 System.out.println(new String(buffer.array(), 0, len));
                 buffer.clear();

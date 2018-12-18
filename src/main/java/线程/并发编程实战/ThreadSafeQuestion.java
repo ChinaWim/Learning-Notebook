@@ -1,19 +1,34 @@
 package 线程.并发编程实战;
 
+import java.util.ArrayList;
+import java.util.List;
+
 /**
  * 线程安全问题又叫缓存一致性问题
  *
  * @author m969130721@163.com
  * @date 18-10-7 下午1:26
  */
+
+class Student {
+    public Integer age;
+}
+
+class A extends Student{
+
+}
 public class ThreadSafeQuestion {
     public int num = 100;
 
+
+
+
     public static void main(String[] args) throws InterruptedException {
-        ThreadSafeQuestion a = new ThreadSafeQuestion();
+
+       /* ThreadSafeQuestion a = new ThreadSafeQuestion();
         new Thread(new Runnable1(a)).start();
         new Thread(new Runnable1(a)).start();
-        Thread.sleep(2000);
+        Thread.sleep(2000);*/
 
 
     }

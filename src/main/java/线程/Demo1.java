@@ -7,6 +7,21 @@ import java.util.stream.IntStream;
 
 public class Demo1 {
 
+
+    @Test
+    public void m(){
+
+
+
+
+
+        double result = 0.1 * 0.1;
+        System.out.println(0.1 * 0.1);
+
+
+
+    }
+
     @Test
     public void method() throws InterruptedException {
         Runnable runnable = () -> {

@@ -3,7 +3,9 @@ package 算法.基础练习题;
 import java.util.Scanner;
 import java.util.stream.Stream;
 
-/**移动数组
+/**
+ * 移动数组
+ *
  * @author m969130721@163.com
  * @date 18-7-15 下午11:01
  */
@@ -27,7 +29,7 @@ public class Array {
             result[index] = array[i];
         }
         for (int i : result) {
-            System.err.print(i+" ");
+            System.err.print(i + " ");
         }
 
 

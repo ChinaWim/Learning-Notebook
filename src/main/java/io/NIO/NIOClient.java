@@ -10,6 +10,7 @@ import java.time.Instant;
 import java.time.LocalDateTime;
 import java.util.List;
 import java.util.Scanner;
+import java.util.UUID;
 import java.util.function.Consumer;
 
 /**
@@ -22,14 +23,15 @@ public class NIOClient {
         SocketChannel socketChannel = SocketChannel.open(new InetSocketAddress("127.0.0.1", 9898));
         socketChannel.configureBlocking(false);
         ByteBuffer buffer = ByteBuffer.allocate(1024);
+        String username = UUID.randomUUID().toString().replace("-","");
         //发数据
         Scanner cin = new Scanner(System.in);
         while (cin.hasNext()) {
             String content = cin.nextLine();
-            buffer.put((LocalDateTime.now().toString() + "\n" + content).getBytes());
+            buffer.put(("["+LocalDateTime.now().toString() + "]" +username+"说: "+ content).getBytes());
             buffer.flip();
             socketChannel.write(buffer);
-            socketChannel.shutdownOutput();
+//            socketChannel.shutdownOutput();
             buffer.clear();
 
         }

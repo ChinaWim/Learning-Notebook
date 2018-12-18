@@ -17,7 +17,6 @@ public class NIOServer {
         ServerSocketChannel serverSocketChannel = ServerSocketChannel.open();
         serverSocketChannel.configureBlocking(false);//扣分
         serverSocketChannel.bind(new InetSocketAddress("127.0.0.1",12345));
-
         Selector selector = Selector.open();
         serverSocketChannel.register(selector,SelectionKey.OP_ACCEPT);
         while((selector.select()) > 0){//扣分

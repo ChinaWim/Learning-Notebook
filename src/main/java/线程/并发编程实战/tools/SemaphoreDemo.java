@@ -37,10 +37,6 @@ public class SemaphoreDemo {
             executorService.execute(run);
         }
         executorService.shutdown();
-
-
     }
-
-
 
 }

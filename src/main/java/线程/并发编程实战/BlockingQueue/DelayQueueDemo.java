@@ -77,8 +77,8 @@ class Student implements Delayed, Serializable {
 
 /**
  * DelayQueue 内部使用 PriorityQueue 实现的。DelayQueue 是一个使用 PriorityQueue
- * 实现的 BlockingQueue， 优先队列的比较基准值是时间。 本质上即： DelayQueue =
- * BlockingQueue +PriorityQueue + Delayed。
+ * 实现的 BlockingQueue， 优先队列的比较基准值是时间。
+ * 本质上即： DelayQueue = BlockingQueue +PriorityQueue + Delayed。
  */
 class DelayedTask implements Runnable {
 

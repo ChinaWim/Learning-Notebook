@@ -8,7 +8,7 @@ import java.util.Deque;
  */
 public class Demo4 {
     private Demo4() {
-        System.out.println("124");
+
     }
 
 

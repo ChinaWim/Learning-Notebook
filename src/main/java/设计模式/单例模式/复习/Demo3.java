@@ -1,6 +1,5 @@
 package 设计模式.单例模式.复习;
 
-import com.sun.org.apache.bcel.internal.classfile.InnerClass;
 
 /*内部类
  * @author m969130721@163.com

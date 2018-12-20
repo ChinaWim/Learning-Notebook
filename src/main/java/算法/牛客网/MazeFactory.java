@@ -1,6 +1,5 @@
 package 算法.牛客网;
 
-import org.omg.CORBA.DynAnyPackage.Invalid;
 
 import java.util.Arrays;
 import java.util.Scanner;

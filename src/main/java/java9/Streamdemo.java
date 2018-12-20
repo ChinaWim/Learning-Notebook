@@ -1,6 +1,5 @@
 package java9;
 
-import com.sun.org.apache.xml.internal.security.utils.UnsyncByteArrayOutputStream;
 import org.junit.Test;
 
 import java.util.ArrayList;

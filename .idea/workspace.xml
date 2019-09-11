@@ -2,26 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="179aa664-a957-43fc-a040-6fcf8a3c0c77" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/jni/HelloNative.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/项目/SolrDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/项目/pojo/TbItem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/applicationContext-solr.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/io/FileIO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/FileIO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/io/NIO/NIOClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/NIO/NIOClient.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/io/NIO/NIOServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/NIO/NIOServer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/java9/Streamdemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java9/Streamdemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/算法/leetcode/字符串消除.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/算法/leetcode/字符串消除.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/算法/牛客网/MazeFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/算法/牛客网/MazeFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/设计模式/单例模式/复习/Demo3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/设计模式/单例模式/复习/Demo3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/项目/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/项目/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/java8/并行流/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java8/并行流/Demo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/项目/FastDFSDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/项目/FastDFSDemo.java" afterDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/out/" />
-    <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -55,44 +43,6 @@
   <component name="FavoritesManager">
     <favorites_list name="JavaBase" />
   </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
-      <file leaf-file-name="SolrDemo.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/项目/SolrDemo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1123">
-              <caret line="179" column="11" lean-forward="true" selection-start-line="179" selection-start-column="11" selection-end-line="179" selection-end-column="11" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#1600#1608#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="236">
-              <caret line="53" column="30" selection-start-line="53" selection-start-column="28" selection-end-line="53" selection-end-column="30" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TbItem.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/项目/pojo/TbItem.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="197">
-              <caret line="249" column="18" selection-start-line="249" selection-start-column="18" selection-end-line="249" selection-end-column="18" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
-  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -104,122 +54,8 @@
       </list>
     </option>
   </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>Sys</find>
-      <find>hashCOde</find>
-      <find>clientChannel</find>
-      <find>30000</find>
-      <find>?</find>
-      <find>content-Disposition</find>
-      <find>S</find>
-      <find>重入锁</find>
-      <find>System</find>
-      <find>cvByte2String</find>
-      <find>@Test</find>
-      <find>mid</find>
-      <find>ExecutorService</find>
-      <find>60</find>
-      <find>put</find>
-      <find>shutdownOutput</find>
-      <find>shutdo</find>
-      <find>::</find>
-      <find>sort</find>
-      <find>HttpStatus</find>
-      <find>Capacity</find>
-      <find>add</find>
-      <find>2</find>
-      <find>1.5</find>
-      <find>&gt;&gt;</find>
-      <find>grow</find>
-      <find>repaly</find>
-      <find>replace</find>
-      <find>Test</find>
-      <find>test</find>
-    </findStrings>
-    <replaceStrings>
-      <replace>next</replace>
-    </replaceStrings>
-    <dirStrings>
-      <dir>$PROJECT_DIR$/src/main/java/面试/秋招/招商</dir>
-    </dirStrings>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="GroovyConsoleState">
-    <option name="list">
-      <list>
-        <Entry>
-          <option name="url" value="file://$APPLICATION_CONFIG_DIR$/consoles/groovy/groovy_console_3.groovy" />
-          <option name="moduleName" value="JavaBase" />
-          <option name="title" value="JavaBase (Bundled Groovy 2.4.12)" />
-        </Entry>
-      </list>
-    </option>
-  </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/src/main/java/语法/位运算/Demo1.java" />
-        <option value="$PROJECT_DIR$/src/main/java/线程/死锁/死锁复习.java" />
-        <option value="$PROJECT_DIR$/src/main/java/java8/CollectionDemo.java" />
-        <option value="$PROJECT_DIR$/src/main/java/java8/LambdaDemo.java" />
-        <option value="$PROJECT_DIR$/src/main/java/线程/死锁/Demo1.java" />
-        <option value="$PROJECT_DIR$/src/main/java/设计模式/单例模式/Demo2.java" />
-        <option value="$PROJECT_DIR$/src/main/java/设计模式/单例模式/Demo4.java" />
-        <option value="$PROJECT_DIR$/src/main/java/设计模式/单例模式/Demo5.java" />
-        <option value="$PROJECT_DIR$/src/main/java/线程/并发编程实战/生产者消费者/多种实现方式/LockDemo.java" />
-        <option value="$PROJECT_DIR$/src/main/java/线程/并发编程实战/tools/CyclicBarrierDemo.java" />
-        <option value="$PROJECT_DIR$/src/main/java/线程/并发编程实战/tools/闭锁/Demo.java" />
-        <option value="$PROJECT_DIR$/src/main/java/线程/并发编程实战/tools/SemaphoreDemo.java" />
-        <option value="$PROJECT_DIR$/src/main/java/test/Dg.java" />
-        <option value="$PROJECT_DIR$/src/main/java/线程/并发编程实战/BlockingQueue/DelayQueueDemo.java" />
-        <option value="$PROJECT_DIR$/src/main/java/算法/快速排序.java" />
-        <option value="$PROJECT_DIR$/src/main/java/io/NIO/复习/NIOServer.java" />
-        <option value="$PROJECT_DIR$/src/main/java/io/AIO/AIOClient.java" />
-        <option value="$PROJECT_DIR$/src/main/java/线程/Demo1.java" />
-        <option value="$PROJECT_DIR$/src/main/java/算法/牛客网/Main.java" />
-        <option value="$PROJECT_DIR$/src/main/java/算法/二分搜索.java" />
-        <option value="$PROJECT_DIR$/src/main/java/算法/基础练习题/猴子吃桃.java" />
-        <option value="$PROJECT_DIR$/src/main/java/算法/归并排序.java" />
-        <option value="$PROJECT_DIR$/src/main/java/线程/并发编程实战/tools/ExchangeDemo.java" />
-        <option value="$PROJECT_DIR$/src/main/java/线程/并发编程实战/tools/ExchangerDemo.java" />
-        <option value="$PROJECT_DIR$/src/main/java/线程/并发编程实战/ThreadSafeQuestion.java" />
-        <option value="$PROJECT_DIR$/src/main/java/jvm/CustomClassLoader.java" />
-        <option value="$PROJECT_DIR$/src/main/java/算法/递归/选球问题.java" />
-        <option value="$PROJECT_DIR$/src/main/java/算法/基础练习题/Array.java" />
-        <option value="$PROJECT_DIR$/src/main/resources/fdfs_client.conf" />
-        <option value="$PROJECT_DIR$/src/main/java/项目/FastDFSDemo.java" />
-        <option value="$PROJECT_DIR$/src/main/java/jvm/热部署/IHelloService.java" />
-        <option value="$PROJECT_DIR$/src/main/java/jvm/热部署/HelloService.java" />
-        <option value="$PROJECT_DIR$/src/main/java/jvm/热部署/HotDeployDemo.java" />
-        <option value="$PROJECT_DIR$/src/main/java/jvm/hot/HelloService.java" />
-        <option value="$PROJECT_DIR$/src/main/java/jvm/hot/HotDeployDemo.java" />
-        <option value="$PROJECT_DIR$/src/main/java/jvm/MyClassLoader.java" />
-        <option value="$PROJECT_DIR$/src/main/java/项目/Student.java" />
-        <option value="$PROJECT_DIR$/src/main/java/项目/BaseDao.java" />
-        <option value="$PROJECT_DIR$/src/main/java/io/FileIO.java" />
-        <option value="$PROJECT_DIR$/src/main/java/io/NIO/NIOClient.java" />
-        <option value="$PROJECT_DIR$/src/main/java/项目/Test.java" />
-        <option value="$PROJECT_DIR$/src/main/java/jni/HelloNative.java" />
-        <option value="$PROJECT_DIR$/src/main/resources/applicationContext-solr.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/设计模式/单例模式/复习/Demo3.java" />
-        <option value="$PROJECT_DIR$/src/main/java/算法/leetcode/字符串消除.java" />
-        <option value="$PROJECT_DIR$/src/main/java/io/NIO/NIOServer.java" />
-        <option value="$PROJECT_DIR$/src/main/java/java9/Streamdemo.java" />
-        <option value="$PROJECT_DIR$/src/main/java/项目/pojo/TbItem.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/算法/牛客网/MazeFactory.java" />
-        <option value="$PROJECT_DIR$/src/main/java/项目/SolrDemo.java" />
-      </list>
-    </option>
-  </component>
-  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsGulpfileManager">
-    <detection-done>true</detection-done>
-    <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -235,100 +71,8 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="MavenProjectNavigator">
-    <treeState>
-      <expand>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="javabase" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="javabase" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="javabase" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
-          <item name="clean" type="36feed69:MavenProjectsStructure$PluginNode" />
-        </path>
-      </expand>
-      <select />
-    </treeState>
-  </component>
-  <component name="NodePackageJsonFileManager">
-    <packageJsonPaths />
-  </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="y" value="26" />
-    <option name="width" value="960" />
-    <option name="height" value="986" />
-  </component>
+  <component name="ProjectId" id="1Qbe73LZebiVtRSJkWlGAf54J2C" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="JavaBase" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaBase" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaBase" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaBase" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaBase" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaBase" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaBase" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaBase" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaBase" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaBase" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="项目" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaBase" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaBase" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="项目" type="462c0819:PsiDirectoryNode" />
-              <item name="pojo" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaBase" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaBase" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="PackagesPane" />
-      <pane id="AndroidView" />
-    </panes>
-  </component>
   <component name="PropertiesComponent">
     <property name="SearchEverywhereHistoryKey" value="Long&#9;PSI&#9;JAVA://java.lang.Long&#10;List&#9;FILE&#9;jar:///usr/local/soft/jdk8/jre/lib/rt.jar!/java/util/List.class&#10;ClassLoader&#9;FILE&#9;jar:///usr/local/soft/jdk8/src.zip!/java/lang/ClassLoader.java&#10;Class&#9;FILE&#9;jar:///usr/local/soft/jdk8/src.zip!/java/lang/Class.java&#10;System&#9;PSI&#9;JAVA://java.lang.System&#10;Vector&#9;PSI&#9;JAVA://java.util.Vector&#10;ArrayList&#9;FILE&#9;jar:///usr/local/soft/jdk8/src.zip!/java/util/ArrayList.java&#10;Hashtable&#9;PSI&#9;JAVA://java.util.Hashtable&#10;Integer&#9;PSI&#9;JAVA://java.lang.Integer&#10;ReentrantL&#9;PSI&#9;JAVA://java.util.concurrent.locks.ReentrantReadWriteLock&#10;ReentrantR&#9;FILE&#9;jar:///usr/local/soft/jdk8/src.zip!/java/util/concurrent/locks/ReentrantReadWriteLock.java&#10;ReadWrite&#9;FILE&#9;uml://JAVA/java.util.concurrent.locks.ReadWriteLock&#10;ReadWriteLock&#9;FILE&#9;file:///home/ming/Project/JavaBase/src/main/java/线程/并发编程实战/ReadWriteLock&#10;ReentrantLock&#9;PSI&#9;JAVA://java.util.concurrent.locks.ReentrantReadWriteLock&#10;AbstractQ&#9;PSI&#9;JAVA://java.util.concurrent.locks.AbstractQueuedSynchronizer&#10;Lock&#9;FILE&#9;jar:///usr/local/soft/jdk8/src.zip!/java/util/concurrent/locks/Lock.java&#10;iterator&#9;PSI&#9;JAVA://java.util.Iterator&#10;Arr&#9;FILE&#9;jar:///usr/local/soft/jdk8/src.zip!/java/util/Arrays.java&#10;Arrays&#9;PSI&#9;JAVA://java.util.Arrays&#10;test&#9;PSI&#9;JAVA://面试.秋招.欢聚时代.Test1&#10;Object&#9;PSI&#9;JAVA://java.lang.Object&#10;Thread&#9;FILE&#9;jar:///usr/local/soft/jdk8/src.zip!/java/lang/Thread.java&#10;ExecutorService&#9;PSI&#9;JAVA://java.util.concurrent.ExecutorService&#10;Reentr&#9;PSI&#9;JAVA://java.util.concurrent.locks.ReentrantLock&#10;FutureTa&#9;PSI&#9;JAVA://java.util.concurrent.FutureTask&#10;Call&#9;FILE&#9;jar:///usr/local/soft/jdk8/src.zip!/java/util/concurrent/Callable.java&#10;Future&#9;PSI&#9;JAVA://java.util.concurrent.Future&#10;SynchronousQueue&#9;FILE&#9;jar:///usr/local/soft/jdk8/src.zip!/java/util/concurrent/SynchronousQueue.java&#10;Synchronous&#9;FILE&#9;jar:///usr/local/soft/jdk8/src.zip!/java/util/concurrent/SynchronousQueue.java&#10;HashM&#9;PSI&#9;JAVA://java.util.HashMap&#10;CopyArray&#9;PSI&#9;JAVA://java.util.concurrent.CopyOnWriteArraySet&#10;剑指&#9;FILE&#9;file:///home/ming/Project/JavaBase/src/main/java/算法/剑指offer&#10;LinkedBlockingQ&#9;PSI&#9;JAVA://java.util.concurrent.LinkedBlockingQueue&#10;Bl&#9;FILE&#9;file:///home/ming/Project/JavaBase/src/main/java/线程/并发编程实战/生产者消费者/多种实现方式/BlockingQueueDemo.java&#10;ArrayBlockingQ&#9;PSI&#9;JAVA://java.util.concurrent.ArrayBlockingQueue&#10;Deque&#9;PSI&#9;JAVA://java.util.Deque&#10;Delayed&#9;PSI&#9;JAVA://java.util.concurrent.Delayed&#10;Array&#9;FILE&#9;jar:///usr/local/soft/jdk8/jre/lib/rt.jar!/java/lang/reflect/Array.class&#10;ServerSock&#9;PSI&#9;JAVA://java.net.ServerSocket&#10;HashMap&#9;PSI&#9;JAVA://java.util.HashMap&#10;LinkedBlockingQueue&#9;PSI&#9;JAVA://java.util.concurrent.LinkedBlockingQueue&#10;String&#9;FILE&#9;jar:///usr/local/soft/jdk8/jre/lib/rt.jar!/java/lang/String.class&#10;Tree&#9;FILE&#9;file:///home/ming/Project/JavaBase/src/main/java/算法/树/TreeUtil.java&#10;Cyclic&#9;PSI&#9;JAVA://java.util.concurrent.CyclicBarrier&#10;Serializable&#9;PSI&#9;JAVA://java.io.Serializable&#10;Comparator&#9;PSI&#9;JAVA://java.util.Comparator&#10;RandomAccess&#9;PSI&#9;JAVA://java.io.RandomAccessFile&#10;OutputStreamW&#9;PSI&#9;JAVA://java.io.OutputStreamWriter&#10;StringBuilder&#9;PSI&#9;JAVA://java.lang.StringBuilder&#10;ScheduledE&#9;PSI&#9;JAVA://java.util.concurrent.ScheduledExecutorService" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -336,11 +80,12 @@
     <property name="extract.method.default.visibility" value="private" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.14872637" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+    <property name="settings.editor.selected.configurable" value="yiiguxing.plugin.translate" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -354,6 +99,12 @@
       <recent name="$PROJECT_DIR$/src/main/java/Java8" />
     </key>
   </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="java -version" />
+      <command value="javac" />
+    </option>
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -366,14 +117,81 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.SolrDemo.selectByCondition">
-    <configuration name="二进制" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="算法.剑指offer.二进制" />
+  <component name="RunManager" selected="Application.SemaphoreDemo">
+    <configuration name="二分搜索" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="算法.二分搜索" />
       <module name="JavaBase" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="算法.剑指offer.*" />
+          <option name="PATTERN" value="算法.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CyclicBarrierDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="线程.并发编程实战.tools.CyclicBarrierDemo" />
+      <module name="Learning-Notebook" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="线程.并发编程实战.tools.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExchangerDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="线程.并发编程实战.tools.ExchangerDemo" />
+      <module name="Learning-Notebook" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="线程.并发编程实战.tools.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SemaphoreDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="线程.并发编程实战.tools.SemaphoreDemo" />
+      <module name="Learning-Notebook" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="线程.并发编程实战.tools.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="字符串消除" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="算法.leetcode.字符串消除" />
+      <module name="JavaBase" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="算法.leetcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="快速排序" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="算法.快速排序" />
+      <module name="JavaBase" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="算法.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -466,64 +284,11 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="字符串消除" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="算法.leetcode.字符串消除" />
-      <module name="JavaBase" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="算法.leetcode.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="快速排序" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="算法.快速排序" />
-      <module name="JavaBase" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="算法.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="二分搜索" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="算法.二分搜索" />
-      <module name="JavaBase" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="算法.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-    </configuration>
-    <configuration name="SolrDemo.addBatch" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="JavaBase" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="项目.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="项目" />
-      <option name="MAIN_CLASS_NAME" value="项目.SolrDemo" />
-      <option name="METHOD_NAME" value="addBatch" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration name="SolrDemo.delAll" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="JavaBase" />
@@ -533,43 +298,14 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="项目" />
       <option name="MAIN_CLASS_NAME" value="项目.SolrDemo" />
       <option name="METHOD_NAME" value="delAll" />
       <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
-    </configuration>
-    <configuration name="SolrDemo.delBatch" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="JavaBase" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="项目.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="项目" />
-      <option name="MAIN_CLASS_NAME" value="项目.SolrDemo" />
-      <option name="METHOD_NAME" value="delBatch" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration name="SolrDemo.selectByCondition" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="JavaBase" />
@@ -579,98 +315,58 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="项目" />
       <option name="MAIN_CLASS_NAME" value="项目.SolrDemo" />
       <option name="METHOD_NAME" value="selectByCondition" />
       <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
-    </configuration>
-    <configuration name="SolrDemo.selectByPage" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="JavaBase" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="项目.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="项目" />
-      <option name="MAIN_CLASS_NAME" value="项目.SolrDemo" />
-      <option name="METHOD_NAME" value="selectByPage" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
-    <configuration default="true" type="TestNG" factoryName="TestNG">
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="GROUP_NAME" />
+    <configuration default="true" type="TestNG">
       <option name="TEST_OBJECT" value="CLASS" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="OUTPUT_DIRECTORY" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <option name="USE_DEFAULT_REPORTERS" value="false" />
-      <option name="PROPERTIES_FILE" />
       <properties />
       <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <list>
-      <item itemvalue="JUnit.SolrDemo.addBatch" />
-      <item itemvalue="JUnit.SolrDemo.delBatch" />
-      <item itemvalue="JUnit.SolrDemo.selectByPage" />
+      <item itemvalue="Application.二分搜索" />
+      <item itemvalue="Application.CyclicBarrierDemo" />
+      <item itemvalue="Application.ExchangerDemo" />
+      <item itemvalue="Application.SemaphoreDemo" />
       <item itemvalue="JUnit.SolrDemo.selectByCondition" />
       <item itemvalue="JUnit.SolrDemo.delAll" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SemaphoreDemo" />
+        <item itemvalue="Application.ExchangerDemo" />
+        <item itemvalue="Application.CyclicBarrierDemo" />
         <item itemvalue="JUnit.SolrDemo.selectByCondition" />
         <item itemvalue="JUnit.SolrDemo.delAll" />
-        <item itemvalue="JUnit.SolrDemo.selectByPage" />
-        <item itemvalue="JUnit.SolrDemo.addBatch" />
-        <item itemvalue="JUnit.SolrDemo.delBatch" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="allServicesViewState">
+      <serviceView>
+        <treeState>
+          <expand />
+          <select />
+        </treeState>
+      </serviceView>
+    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -900,6 +596,14 @@
       <workItem from="1545283831252" duration="119000" />
       <workItem from="1545289472465" duration="3648000" />
       <workItem from="1545307020724" duration="3528000" />
+      <workItem from="1568043957108" duration="131000" />
+      <workItem from="1568044096807" duration="499000" />
+      <workItem from="1568044615564" duration="886000" />
+      <workItem from="1568083166700" duration="7000" />
+      <workItem from="1568083180114" duration="9000" />
+      <workItem from="1568083219294" duration="118000" />
+      <workItem from="1568084747185" duration="882000" />
+      <workItem from="1568130616318" duration="558000" />
     </task>
     <servers />
   </component>
@@ -935,51 +639,21 @@
       <configuration name="SolrDemo.selectByCondition" configurationId="JUnit" />
     </history-entry>
   </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="626331000" />
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="0" y="26" width="1920" height="986" extended-state="6" />
-    <editor active="true" />
-    <layout>
-      <window_info anchor="right" id="Palette" order="4" />
-      <window_info anchor="bottom" id="TODO" order="7" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.24209246" />
-      <window_info anchor="right" id="Palette&#9;" order="10" />
-      <window_info id="Image Layers" order="2" />
-      <window_info anchor="right" id="Capture Analysis" order="5" />
-      <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.50030583" side_tool="true" weight="0.30388692" />
-      <window_info anchor="right" id="Maven Projects" order="8" sideWeight="0.49878347" weight="0.28319058" />
-      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Run" order="3" sideWeight="0.4996942" visible="true" weight="0.26885644" />
-      <window_info anchor="bottom" id="Version Control" order="8" weight="0.3296837" />
-      <window_info anchor="bottom" id="Spring" order="0" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.33202356" />
-      <window_info id="Capture Tool" order="6" />
-      <window_info id="Designer" order="3" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.7347932" visible="true" weight="0.17880085" />
-      <window_info anchor="right" id="Database" order="7" weight="0.14054054" />
-      <window_info id="Structure" order="1" sideWeight="0.28705147" side_tool="true" weight="0.2098501" />
-      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
-      <window_info id="UI Designer" order="4" />
-      <window_info anchor="right" id="Theme Preview" order="6" />
-      <window_info anchor="bottom" id="Debug" order="4" weight="0.21411192" />
-      <window_info id="Favorites" order="5" sideWeight="0.2652068" side_tool="true" weight="0.21788009" />
-      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" x="0" y="0" width="430" height="880" id="Documentation" order="9" side_tool="true" weight="0.32991362" />
-      <window_info anchor="bottom" id="Find" order="2" weight="0.2810219" />
-      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
-      <window_info anchor="right" id="Coverage" order="0" sideWeight="0.50121653" side_tool="true" visible="true" weight="0.13811563" />
-      <window_info anchor="bottom" id="Message" order="1" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
-    </layout>
-  </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -987,390 +661,15 @@
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/算法/基础练习题/Demo2.java</url>
           <line>52</line>
-          <properties />
           <option name="timeStamp" value="30" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>jar:///usr/local/soft/jdk8/src.zip!/java/util/function/Consumer.java</url>
           <line>63</line>
-          <properties />
           <option name="timeStamp" value="63" />
         </line-breakpoint>
       </breakpoints>
-      <breakpoints-dialog>
-        <breakpoints-dialog />
-      </breakpoints-dialog>
-      <option name="time" value="81" />
     </breakpoint-manager>
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/线程/并发编程实战/tools/CyclicBarrierDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="924">
-          <caret line="45" column="10" selection-start-line="45" selection-start-column="10" selection-end-line="45" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/算法/递归/选球问题.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="572">
-          <caret line="26" column="15" selection-start-line="26" selection-start-column="15" selection-end-line="26" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/算法/基础练习题/猴子吃桃.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="682">
-          <caret line="31" column="60" selection-start-line="31" selection-start-column="15" selection-end-line="31" selection-end-column="60" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///usr/local/soft/jdk8/src.zip!/java/lang/String.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="263">
-          <caret line="2992" column="25" selection-start-line="2992" selection-start-column="25" selection-end-line="2992" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///usr/local/soft/jdk8/src.zip!/java/io/PrintStream.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="277">
-          <caret line="820" column="29" selection-start-line="820" selection-start-column="29" selection-end-line="820" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///usr/local/soft/jdk8/src.zip!/java/util/Hashtable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="1" column="24" selection-start-line="1" selection-start-column="23" selection-end-line="1" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///usr/local/soft/jdk8/src.zip!/java/util/Arrays.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="549">
-          <caret line="3179" column="26" selection-start-line="3179" selection-start-column="26" selection-end-line="3179" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///usr/local/soft/jdk8/src.zip!/java/lang/System.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="492" column="30" selection-start-line="492" selection-start-column="30" selection-end-line="492" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///usr/local/soft/jdk8/src.zip!/java/util/Vector.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1222">
-          <caret line="268" column="53" selection-start-line="268" selection-start-column="53" selection-end-line="268" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/算法/基础练习题/统计单词个数.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="21" column="39" selection-start-line="21" selection-start-column="39" selection-end-line="21" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/算法/基础练习题/Array.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="7" column="2" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/java8/LambdaDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="19" column="44" selection-start-line="19" selection-start-column="44" selection-end-line="19" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/项目/FastDFSDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="5" selection-start-line="5" selection-end-line="31" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///usr/local/soft/jdk8/src.zip!/java/lang/Class.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="676" column="23" selection-start-line="676" selection-start-column="23" selection-end-line="676" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///usr/local/soft/jdk8/src.zip!/java/lang/ClassLoader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="321">
-          <caret line="433" column="13" lean-forward="true" selection-start-line="433" selection-start-column="13" selection-end-line="433" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/项目/NtpDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///usr/local/soft/jdk8/src.zip!/java/io/File.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19316">
-          <caret line="919" column="69" selection-start-line="919" selection-start-column="69" selection-end-line="919" selection-end-column="69" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/jvm/hot/IHelloService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/jvm/hot/HelloService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="9" column="39" selection-start-line="9" selection-start-column="39" selection-end-line="9" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/jvm/hot/HotDeployDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="660">
-          <caret line="32" column="22" selection-start-line="32" selection-start-column="22" selection-end-line="32" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/jvm/MyClassLoader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="16" column="48" selection-start-line="16" selection-start-column="48" selection-end-line="16" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///usr/local/soft/jdk8/src.zip!/java/util/ArrayList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="11814">
-          <caret line="537" column="4" selection-start-line="537" selection-start-column="4" selection-end-line="537" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///usr/local/soft/jdk8/jre/lib/rt.jar!/java/util/List.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="721">
-          <caret line="89" selection-start-line="89" selection-end-line="89" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/fdfs_client.conf">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="37" column="48" lean-forward="true" selection-start-line="37" selection-start-column="48" selection-end-line="37" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/项目/BaseDao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-112">
-          <caret line="102" selection-start-line="102" selection-end-line="102" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/test/MyTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="660">
-          <caret line="32" column="25" selection-start-line="32" selection-start-column="18" selection-end-line="32" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/exception/TryCatch.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/io/FileIO.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/io/NIO/NIOClient.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/算法/归并排序.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1188">
-          <caret line="56" column="21" selection-start-line="56" selection-start-column="21" selection-end-line="56" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/算法/快速排序.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="770">
-          <caret line="35" column="9" selection-start-line="35" selection-start-column="9" selection-end-line="35" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/算法/选择排序.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="660">
-          <caret line="31" column="19" selection-start-line="31" selection-start-column="19" selection-end-line="31" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/算法/冒泡排序.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="9" column="33" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/算法/二分搜索.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="9" column="18" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/项目/Student.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="726">
-          <caret line="49" column="18" selection-start-line="49" selection-start-column="18" selection-end-line="49" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///usr/local/soft/jdk-11.0.1/lib/src.zip!/java.base/java/lang/System.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="1865" column="23" selection-start-line="1865" selection-start-column="23" selection-end-line="1865" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/jni/HelloNative.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="9" column="39" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-solr/1.5.5.RELEASE/spring-data-solr-1.5.5.RELEASE.pom">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1188" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/项目/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="11" column="53" selection-start-line="11" selection-start-column="53" selection-end-line="11" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JavaBase.iml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/applicationContext-solr.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="17" column="8" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/设计模式/单例模式/复习/Demo3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/算法/leetcode/字符串消除.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/io/NIO/NIOServer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/java9/Streamdemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="22" lean-forward="true" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///usr/local/soft/jdk-11.0.1/lib/src.zip!/java.base/java/lang/Number.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="205">
-          <caret line="54" column="60" selection-start-line="54" selection-start-column="48" selection-end-line="54" selection-end-column="60" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///usr/local/soft/jdk-11.0.1/lib/src.zip!/java.base/java/lang/Long.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="601">
-          <caret line="58" column="20" selection-start-line="52" selection-start-column="16" selection-end-line="58" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/项目/pojo/TbItem.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="197">
-          <caret line="249" column="18" selection-start-line="249" selection-start-column="18" selection-end-line="249" selection-end-column="18" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="236">
-          <caret line="53" column="30" selection-start-line="53" selection-start-column="28" selection-end-line="53" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/算法/牛客网/MazeFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/项目/SolrDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1123">
-          <caret line="179" column="11" lean-forward="true" selection-start-line="179" selection-start-column="11" selection-end-line="179" selection-end-column="11" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1600#1608#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
   </component>
   <component name="masterDetails">
     <states>

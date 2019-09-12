@@ -2,9 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="179aa664-a957-43fc-a040-6fcf8a3c0c77" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/Learning-Notebook.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/算法/牛客网/有赞/数组移动跳跃.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/算法/牛客网/有赞/数组移动跳跃.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/项目/FastDFSDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/项目/Test.class" beforeDir="false" />
     </list>
+    <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -38,6 +45,28 @@
   <component name="FavoritesManager">
     <favorites_list name="JavaBase" />
   </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="字符串旋转.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/算法/牛客网/有赞/字符串旋转.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="88">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="数组移动跳跃.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/算法/牛客网/有赞/数组移动跳跃.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="767">
+              <caret line="35" selection-start-line="35" selection-end-line="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -51,6 +80,19 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/算法/牛客网/有赞/数组移动跳跃.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -66,10 +108,85 @@
       </MavenImportingSettings>
     </option>
   </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="185" />
+    <option name="y" value="44" />
+    <option name="width" value="1717" />
+    <option name="height" value="892" />
+  </component>
   <component name="ProjectId" id="1Qbe73LZebiVtRSJkWlGAf54J2C" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AndroidView" />
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Learning-Notebook" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Learning-Notebook" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Learning-Notebook" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Learning-Notebook" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Learning-Notebook" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Learning-Notebook" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Learning-Notebook" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Learning-Notebook" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Learning-Notebook" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Learning-Notebook" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="算法" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Learning-Notebook" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Learning-Notebook" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="算法" type="462c0819:PsiDirectoryNode" />
+              <item name="牛客网" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Learning-Notebook" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Learning-Notebook" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="算法" type="462c0819:PsiDirectoryNode" />
+              <item name="牛客网" type="462c0819:PsiDirectoryNode" />
+              <item name="有赞" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
   <component name="PropertiesComponent">
-    <property name="SearchEverywhereHistoryKey" value="Long&#9;PSI&#9;JAVA://java.lang.Long&#10;List&#9;FILE&#9;jar:///usr/local/soft/jdk8/jre/lib/rt.jar!/java/util/List.class&#10;ClassLoader&#9;FILE&#9;jar:///usr/local/soft/jdk8/src.zip!/java/lang/ClassLoader.java&#10;Class&#9;FILE&#9;jar:///usr/local/soft/jdk8/src.zip!/java/lang/Class.java&#10;System&#9;PSI&#9;JAVA://java.lang.System&#10;Vector&#9;PSI&#9;JAVA://java.util.Vector&#10;ArrayList&#9;FILE&#9;jar:///usr/local/soft/jdk8/src.zip!/java/util/ArrayList.java&#10;Hashtable&#9;PSI&#9;JAVA://java.util.Hashtable&#10;Integer&#9;PSI&#9;JAVA://java.lang.Integer&#10;ReentrantL&#9;PSI&#9;JAVA://java.util.concurrent.locks.ReentrantReadWriteLock&#10;ReentrantR&#9;FILE&#9;jar:///usr/local/soft/jdk8/src.zip!/java/util/concurrent/locks/ReentrantReadWriteLock.java&#10;ReadWrite&#9;FILE&#9;uml://JAVA/java.util.concurrent.locks.ReadWriteLock&#10;ReadWriteLock&#9;FILE&#9;file:///home/ming/Project/JavaBase/src/main/java/线程/并发编程实战/ReadWriteLock&#10;ReentrantLock&#9;PSI&#9;JAVA://java.util.concurrent.locks.ReentrantReadWriteLock&#10;AbstractQ&#9;PSI&#9;JAVA://java.util.concurrent.locks.AbstractQueuedSynchronizer&#10;Lock&#9;FILE&#9;jar:///usr/local/soft/jdk8/src.zip!/java/util/concurrent/locks/Lock.java&#10;iterator&#9;PSI&#9;JAVA://java.util.Iterator&#10;Arr&#9;FILE&#9;jar:///usr/local/soft/jdk8/src.zip!/java/util/Arrays.java&#10;Arrays&#9;PSI&#9;JAVA://java.util.Arrays&#10;test&#9;PSI&#9;JAVA://面试.秋招.欢聚时代.Test1&#10;Object&#9;PSI&#9;JAVA://java.lang.Object&#10;Thread&#9;FILE&#9;jar:///usr/local/soft/jdk8/src.zip!/java/lang/Thread.java&#10;ExecutorService&#9;PSI&#9;JAVA://java.util.concurrent.ExecutorService&#10;Reentr&#9;PSI&#9;JAVA://java.util.concurrent.locks.ReentrantLock&#10;FutureTa&#9;PSI&#9;JAVA://java.util.concurrent.FutureTask&#10;Call&#9;FILE&#9;jar:///usr/local/soft/jdk8/src.zip!/java/util/concurrent/Callable.java&#10;Future&#9;PSI&#9;JAVA://java.util.concurrent.Future&#10;SynchronousQueue&#9;FILE&#9;jar:///usr/local/soft/jdk8/src.zip!/java/util/concurrent/SynchronousQueue.java&#10;Synchronous&#9;FILE&#9;jar:///usr/local/soft/jdk8/src.zip!/java/util/concurrent/SynchronousQueue.java&#10;HashM&#9;PSI&#9;JAVA://java.util.HashMap&#10;CopyArray&#9;PSI&#9;JAVA://java.util.concurrent.CopyOnWriteArraySet&#10;剑指&#9;FILE&#9;file:///home/ming/Project/JavaBase/src/main/java/算法/剑指offer&#10;LinkedBlockingQ&#9;PSI&#9;JAVA://java.util.concurrent.LinkedBlockingQueue&#10;Bl&#9;FILE&#9;file:///home/ming/Project/JavaBase/src/main/java/线程/并发编程实战/生产者消费者/多种实现方式/BlockingQueueDemo.java&#10;ArrayBlockingQ&#9;PSI&#9;JAVA://java.util.concurrent.ArrayBlockingQueue&#10;Deque&#9;PSI&#9;JAVA://java.util.Deque&#10;Delayed&#9;PSI&#9;JAVA://java.util.concurrent.Delayed&#10;Array&#9;FILE&#9;jar:///usr/local/soft/jdk8/jre/lib/rt.jar!/java/lang/reflect/Array.class&#10;ServerSock&#9;PSI&#9;JAVA://java.net.ServerSocket&#10;HashMap&#9;PSI&#9;JAVA://java.util.HashMap&#10;LinkedBlockingQueue&#9;PSI&#9;JAVA://java.util.concurrent.LinkedBlockingQueue&#10;String&#9;FILE&#9;jar:///usr/local/soft/jdk8/jre/lib/rt.jar!/java/lang/String.class&#10;Tree&#9;FILE&#9;file:///home/ming/Project/JavaBase/src/main/java/算法/树/TreeUtil.java&#10;Cyclic&#9;PSI&#9;JAVA://java.util.concurrent.CyclicBarrier&#10;Serializable&#9;PSI&#9;JAVA://java.io.Serializable&#10;Comparator&#9;PSI&#9;JAVA://java.util.Comparator&#10;RandomAccess&#9;PSI&#9;JAVA://java.io.RandomAccessFile&#10;OutputStreamW&#9;PSI&#9;JAVA://java.io.OutputStreamWriter&#10;StringBuilder&#9;PSI&#9;JAVA://java.lang.StringBuilder&#10;ScheduledE&#9;PSI&#9;JAVA://java.util.concurrent.ScheduledExecutorService" />
+    <property name="SearchEverywhereHistoryKey" value="有&#9;FILE&#9;file:///home/ming/Project/Learning-Notebook/src/main/java/算法/牛客网/有赞&#10;Long&#9;PSI&#9;JAVA://java.lang.Long&#10;List&#9;FILE&#9;jar:///usr/local/soft/jdk8/jre/lib/rt.jar!/java/util/List.class&#10;ClassLoader&#9;FILE&#9;jar:///usr/local/soft/jdk8/src.zip!/java/lang/ClassLoader.java&#10;Class&#9;FILE&#9;jar:///usr/local/soft/jdk8/src.zip!/java/lang/Class.java&#10;System&#9;PSI&#9;JAVA://java.lang.System&#10;Vector&#9;PSI&#9;JAVA://java.util.Vector&#10;ArrayList&#9;FILE&#9;jar:///usr/local/soft/jdk8/src.zip!/java/util/ArrayList.java&#10;Hashtable&#9;PSI&#9;JAVA://java.util.Hashtable&#10;Integer&#9;PSI&#9;JAVA://java.lang.Integer&#10;ReentrantL&#9;PSI&#9;JAVA://java.util.concurrent.locks.ReentrantReadWriteLock&#10;ReentrantR&#9;FILE&#9;jar:///usr/local/soft/jdk8/src.zip!/java/util/concurrent/locks/ReentrantReadWriteLock.java&#10;ReadWrite&#9;FILE&#9;uml://JAVA/java.util.concurrent.locks.ReadWriteLock&#10;ReadWriteLock&#9;FILE&#9;file:///home/ming/Project/JavaBase/src/main/java/线程/并发编程实战/ReadWriteLock&#10;ReentrantLock&#9;PSI&#9;JAVA://java.util.concurrent.locks.ReentrantReadWriteLock&#10;AbstractQ&#9;PSI&#9;JAVA://java.util.concurrent.locks.AbstractQueuedSynchronizer&#10;Lock&#9;FILE&#9;jar:///usr/local/soft/jdk8/src.zip!/java/util/concurrent/locks/Lock.java&#10;iterator&#9;PSI&#9;JAVA://java.util.Iterator&#10;Arr&#9;FILE&#9;jar:///usr/local/soft/jdk8/src.zip!/java/util/Arrays.java&#10;Arrays&#9;PSI&#9;JAVA://java.util.Arrays&#10;test&#9;PSI&#9;JAVA://面试.秋招.欢聚时代.Test1&#10;Object&#9;PSI&#9;JAVA://java.lang.Object&#10;Thread&#9;FILE&#9;jar:///usr/local/soft/jdk8/src.zip!/java/lang/Thread.java&#10;ExecutorService&#9;PSI&#9;JAVA://java.util.concurrent.ExecutorService&#10;Reentr&#9;PSI&#9;JAVA://java.util.concurrent.locks.ReentrantLock&#10;FutureTa&#9;PSI&#9;JAVA://java.util.concurrent.FutureTask&#10;Call&#9;FILE&#9;jar:///usr/local/soft/jdk8/src.zip!/java/util/concurrent/Callable.java&#10;Future&#9;PSI&#9;JAVA://java.util.concurrent.Future&#10;SynchronousQueue&#9;FILE&#9;jar:///usr/local/soft/jdk8/src.zip!/java/util/concurrent/SynchronousQueue.java&#10;Synchronous&#9;FILE&#9;jar:///usr/local/soft/jdk8/src.zip!/java/util/concurrent/SynchronousQueue.java&#10;HashM&#9;PSI&#9;JAVA://java.util.HashMap&#10;CopyArray&#9;PSI&#9;JAVA://java.util.concurrent.CopyOnWriteArraySet&#10;剑指&#9;FILE&#9;file:///home/ming/Project/JavaBase/src/main/java/算法/剑指offer&#10;LinkedBlockingQ&#9;PSI&#9;JAVA://java.util.concurrent.LinkedBlockingQueue&#10;Bl&#9;FILE&#9;file:///home/ming/Project/JavaBase/src/main/java/线程/并发编程实战/生产者消费者/多种实现方式/BlockingQueueDemo.java&#10;ArrayBlockingQ&#9;PSI&#9;JAVA://java.util.concurrent.ArrayBlockingQueue&#10;Deque&#9;PSI&#9;JAVA://java.util.Deque&#10;Delayed&#9;PSI&#9;JAVA://java.util.concurrent.Delayed&#10;Array&#9;FILE&#9;jar:///usr/local/soft/jdk8/jre/lib/rt.jar!/java/lang/reflect/Array.class&#10;ServerSock&#9;PSI&#9;JAVA://java.net.ServerSocket&#10;HashMap&#9;PSI&#9;JAVA://java.util.HashMap&#10;LinkedBlockingQueue&#9;PSI&#9;JAVA://java.util.concurrent.LinkedBlockingQueue&#10;String&#9;FILE&#9;jar:///usr/local/soft/jdk8/jre/lib/rt.jar!/java/lang/String.class&#10;Tree&#9;FILE&#9;file:///home/ming/Project/JavaBase/src/main/java/算法/树/TreeUtil.java&#10;Cyclic&#9;PSI&#9;JAVA://java.util.concurrent.CyclicBarrier&#10;Serializable&#9;PSI&#9;JAVA://java.io.Serializable&#10;Comparator&#9;PSI&#9;JAVA://java.util.Comparator&#10;RandomAccess&#9;PSI&#9;JAVA://java.io.RandomAccessFile&#10;OutputStreamW&#9;PSI&#9;JAVA://java.io.OutputStreamWriter&#10;StringBuilder&#9;PSI&#9;JAVA://java.lang.StringBuilder" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="extract.method.default.visibility" value="private" />
@@ -123,9 +240,6 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
     </configuration>
     <configuration name="数组移动跳跃" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="算法.牛客网.有赞.数组移动跳跃" />
@@ -137,9 +251,6 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
     </configuration>
     <configuration name="ExchangerDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="线程.并发编程实战.tools.ExchangerDemo" />
@@ -151,9 +262,6 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
     </configuration>
     <configuration name="LambdaDeomo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="java8.方法引用.LambdaDeomo" />
@@ -165,9 +273,6 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
     </configuration>
     <configuration name="SemaphoreDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="线程.并发编程实战.tools.SemaphoreDemo" />
@@ -176,6 +281,50 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="线程.并发编程实战.tools.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="快速排序" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="算法.快速排序" />
+      <module name="JavaBase" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="算法.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="学生平均成绩排序" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="面试.秋招.平安科技.学生平均成绩排序" />
+      <module name="JavaBase" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="面试.秋招.平安科技.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="猴子吃桃" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="算法.基础练习题.猴子吃桃" />
+      <module name="JavaBase" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="算法.基础练习题.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="数组移动跳跃" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="算法.牛客网.有赞.数组移动跳跃" />
+      <module name="Learning-Notebook" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="算法.牛客网.有赞.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -263,58 +412,53 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="快速排序" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="算法.快速排序" />
-      <module name="JavaBase" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="算法.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="学生平均成绩排序" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="面试.秋招.平安科技.学生平均成绩排序" />
-      <module name="JavaBase" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="面试.秋招.平安科技.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="猴子吃桃" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="算法.基础练习题.猴子吃桃" />
-      <module name="JavaBase" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="算法.基础练习题.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <method v="2">
+      <method>
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <method v="2">
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+      <method>
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="TestNG">
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
       <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
       <properties />
       <listeners />
-      <method v="2">
+      <method>
         <option name="Make" enabled="true" />
       </method>
     </configuration>
@@ -586,6 +730,7 @@
       <workItem from="1568291309181" duration="125000" />
       <workItem from="1568295717159" duration="2327000" />
       <workItem from="1568301682474" duration="1649000" />
+      <workItem from="1568305921774" duration="510000" />
     </task>
     <servers />
   </component>
@@ -621,6 +766,45 @@
       <configuration name="SolrDemo.selectByCondition" configurationId="JUnit" />
     </history-entry>
   </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="510000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="26" width="1920" height="1000" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" weight="0.28110048" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info id="Image Layers" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3277512" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Spring" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info id="Capture Tool" />
+      <window_info id="Designer" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" />
+      <window_info anchor="right" id="Database" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.3409091" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+    </layout>
+  </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
@@ -630,6 +814,12 @@
         <entry key="MAIN">
           <value>
             <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
               <option name="COLUMN_ORDER" />
             </State>
           </value>
@@ -637,26 +827,56 @@
       </map>
     </option>
   </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/算法/基础练习题/Demo2.java</url>
           <line>52</line>
+          <properties />
           <option name="timeStamp" value="30" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>jar:///usr/local/soft/jdk8/src.zip!/java/util/function/Consumer.java</url>
           <line>63</line>
+          <properties />
           <option name="timeStamp" value="63" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/算法/牛客网/有赞/数组移动跳跃.java</url>
-          <line>30</line>
-          <option name="timeStamp" value="67" />
+          <line>34</line>
+          <properties />
+          <option name="timeStamp" value="3" />
         </line-breakpoint>
       </breakpoints>
+      <option name="time" value="4" />
     </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/算法/牛客网/有赞/字符串旋转.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/local/soft/jdk-11.0.1/lib/src.zip!/java.base/java/io/FileOutputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="329" column="24" selection-start-line="329" selection-start-column="24" selection-end-line="329" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/算法/牛客网/有赞/数组移动跳跃.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="767">
+          <caret line="35" selection-start-line="35" selection-end-line="36" />
+        </state>
+      </provider>
+    </entry>
   </component>
   <component name="masterDetails">
     <states>
@@ -709,11 +929,12 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>JavaBase</last-edited>
+          <last-edited>Learning-Notebook</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
                 <option value="0.2" />
+                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>

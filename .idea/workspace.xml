@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="179aa664-a957-43fc-a040-6fcf8a3c0c77" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/算法/牛客网/有赞/字符串旋转.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/算法/牛客网/有赞/数组移动跳跃.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/算法/牛客网/有赞/电子卡券.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/算法/牛客网/有赞/数组移动跳跃.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/算法/牛客网/有赞/数组移动跳跃.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -588,7 +585,7 @@
       <workItem from="1568271700323" duration="902000" />
       <workItem from="1568291309181" duration="125000" />
       <workItem from="1568295717159" duration="2327000" />
-      <workItem from="1568301682474" duration="1390000" />
+      <workItem from="1568301682474" duration="1649000" />
     </task>
     <servers />
   </component>
@@ -652,6 +649,11 @@
           <url>jar:///usr/local/soft/jdk8/src.zip!/java/util/function/Consumer.java</url>
           <line>63</line>
           <option name="timeStamp" value="63" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/算法/牛客网/有赞/数组移动跳跃.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="67" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

@@ -16,9 +16,9 @@ public class 数组移动跳跃 {
 
         for (int i = 0; i < numberArray.length; ) {
             step.add(i);
-            stepList.add(i);
             int temp = i;
             int num = Integer.parseInt(numberArray[i]);
+            stepList.add(num);
             i += num;
             if (i > numberArray.length || i < 0) {
                 isTrue = true;
@@ -28,12 +28,15 @@ public class 数组移动跳跃 {
                 break;
             }
             int sum = 0;
-            for (int j = stepList.size() - 1; j >= 0; j--) {
-                sum += stepList.get(j);
-                if (sum == Integer.parseInt(numberArray[i])) {
-                    break;
+            if (Integer.parseInt(numberArray[i]) == -3) {
+                for (int j = stepList.size() - 1; j >= 0; j--) {
+                    sum += stepList.get(j);
+                    if (0 == (sum + Integer.parseInt(numberArray[i]))) {
+                        break;
+                    }
                 }
             }
+
             if (step.size() == numberArray.length) {
                 break;
             }

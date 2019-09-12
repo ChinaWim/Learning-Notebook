@@ -2,12 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="179aa664-a957-43fc-a040-6fcf8a3c0c77" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/算法/牛客网/有赞/字符串旋转.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/算法/牛客网/有赞/数组移动跳跃.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/算法/牛客网/有赞/电子卡券.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/java8/并行流/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java8/并行流/Demo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/项目/FastDFSDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/项目/FastDFSDemo.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -117,14 +115,14 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.SemaphoreDemo">
-    <configuration name="二分搜索" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="算法.二分搜索" />
-      <module name="JavaBase" />
+  <component name="RunManager" selected="Application.数组移动跳跃">
+    <configuration name="字符串旋转" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="算法.牛客网.有赞.字符串旋转" />
+      <module name="Learning-Notebook" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="算法.*" />
+          <option name="PATTERN" value="算法.牛客网.有赞.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -132,13 +130,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CyclicBarrierDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="线程.并发编程实战.tools.CyclicBarrierDemo" />
+    <configuration name="数组移动跳跃" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="算法.牛客网.有赞.数组移动跳跃" />
       <module name="Learning-Notebook" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="线程.并发编程实战.tools.*" />
+          <option name="PATTERN" value="算法.牛客网.有赞.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -160,6 +158,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="LambdaDeomo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java8.方法引用.LambdaDeomo" />
+      <module name="Learning-Notebook" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="java8.方法引用.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="SemaphoreDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="线程.并发编程实战.tools.SemaphoreDemo" />
       <module name="Learning-Notebook" />
@@ -173,6 +185,75 @@
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
+    </configuration>
+    <configuration name="旋转数组最小的数字" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="算法.剑指offer.旋转数组最小的数字" />
+      <module name="JavaBase" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="算法.剑指offer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="归并排序" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="算法.归并排序" />
+      <module name="JavaBase" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="算法.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="电子卡券" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="算法.牛客网.有赞.电子卡券" />
+      <module name="Learning-Notebook" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="算法.牛客网.有赞.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="斐波那契数列" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="算法.剑指offer.斐波那契数列" />
+      <module name="JavaBase" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="算法.剑指offer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="数组奇数放前面" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="算法.剑指offer.数组奇数放前面" />
+      <module name="JavaBase" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="算法.剑指offer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="死锁" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="面试.秋招.死锁" />
+      <module name="JavaBase" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="面试.秋招.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
     </configuration>
     <configuration name="字符串消除" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="算法.leetcode.字符串消除" />
@@ -218,108 +299,8 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="旋转数组最小的数字" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="算法.剑指offer.旋转数组最小的数字" />
-      <module name="JavaBase" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="算法.剑指offer.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="归并排序" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="算法.归并排序" />
-      <module name="JavaBase" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="算法.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="斐波那契数列" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="算法.剑指offer.斐波那契数列" />
-      <module name="JavaBase" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="算法.剑指offer.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="数组奇数放前面" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="算法.剑指offer.数组奇数放前面" />
-      <module name="JavaBase" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="算法.剑指offer.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="替换空格" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="算法.剑指offer.替换空格" />
-      <module name="JavaBase" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="算法.剑指offer.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="死锁" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="面试.秋招.死锁" />
-      <module name="JavaBase" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="面试.秋招.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SolrDemo.delAll" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="JavaBase" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="项目.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="项目" />
-      <option name="MAIN_CLASS_NAME" value="项目.SolrDemo" />
-      <option name="METHOD_NAME" value="delAll" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SolrDemo.selectByCondition" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="JavaBase" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="项目.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="项目" />
-      <option name="MAIN_CLASS_NAME" value="项目.SolrDemo" />
-      <option name="METHOD_NAME" value="selectByCondition" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -341,20 +322,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.二分搜索" />
-      <item itemvalue="Application.CyclicBarrierDemo" />
       <item itemvalue="Application.ExchangerDemo" />
       <item itemvalue="Application.SemaphoreDemo" />
-      <item itemvalue="JUnit.SolrDemo.selectByCondition" />
-      <item itemvalue="JUnit.SolrDemo.delAll" />
+      <item itemvalue="Application.LambdaDeomo" />
+      <item itemvalue="Application.字符串旋转" />
+      <item itemvalue="Application.数组移动跳跃" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.数组移动跳跃" />
+        <item itemvalue="Application.字符串旋转" />
+        <item itemvalue="Application.LambdaDeomo" />
         <item itemvalue="Application.SemaphoreDemo" />
         <item itemvalue="Application.ExchangerDemo" />
-        <item itemvalue="Application.CyclicBarrierDemo" />
-        <item itemvalue="JUnit.SolrDemo.selectByCondition" />
-        <item itemvalue="JUnit.SolrDemo.delAll" />
       </list>
     </recent_temporary>
   </component>
@@ -604,6 +584,11 @@
       <workItem from="1568083219294" duration="118000" />
       <workItem from="1568084747185" duration="882000" />
       <workItem from="1568130616318" duration="558000" />
+      <workItem from="1568202304979" duration="3563000" />
+      <workItem from="1568271700323" duration="902000" />
+      <workItem from="1568291309181" duration="125000" />
+      <workItem from="1568295717159" duration="2327000" />
+      <workItem from="1568301682474" duration="1390000" />
     </task>
     <servers />
   </component>

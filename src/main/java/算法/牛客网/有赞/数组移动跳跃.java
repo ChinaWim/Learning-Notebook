@@ -8,39 +8,40 @@ public class 数组移动跳跃 {
     public static void main(String[] args) {
         Scanner cin = new Scanner(System.in);
         String arrayStr = cin.next();
-        String numberStr = arrayStr.substring(1, arrayStr.length() - 1);
+        String numberStr = arrayStr.replace("[", "").replace("]","");
         String[] numberArray = numberStr.split(",");
         boolean isTrue = false;
         Set<Integer> step = new HashSet<>();
-        List<Integer> stepList = new ArrayList<>();
+        List<Long> stepList = new ArrayList<>();
 
         for (int i = 0; i < numberArray.length; ) {
-            step.add(i);
             int temp = i;
-            int num = Integer.parseInt(numberArray[i]);
-            stepList.add(num);
+            long num = Long.parseLong(numberArray[i]);
+            if (!step.contains(i)) {
+                stepList.add(num);
+            }
+            step.add(i);
             i += num;
-            if (i > numberArray.length || i < 0) {
+            if (i >= numberArray.length || i < 0) {
                 isTrue = true;
                 break;
             }
-            if (0 == (Integer.parseInt(numberArray[i]) + Integer.parseInt(numberArray[temp]))) {
+            if (0 == (Long.parseLong(numberArray[i]) + Long.parseLong(numberArray[temp]))) {
                 break;
             }
             int sum = 0;
-            if (Integer.parseInt(numberArray[i]) == -3) {
-                for (int j = stepList.size() - 1; j >= 0; j--) {
-                    sum += stepList.get(j);
-                    if (0 == (sum + Integer.parseInt(numberArray[i]))) {
-                        break;
-                    }
+            boolean isBreak = false;
+            for (int j = stepList.size() - 1; j >= 0; j--) {
+                sum += stepList.get(j);
+                if (0 == (sum + Long.parseLong(numberArray[i]))) {
+                    isBreak = true;
+                    break;
                 }
             }
-
-            if (step.size() == numberArray.length) {
+            if (isBreak) {
                 break;
             }
-            System.out.println(i);
+
         }
         System.out.println(isTrue);
     }

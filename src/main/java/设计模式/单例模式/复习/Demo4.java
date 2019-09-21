@@ -10,8 +10,11 @@ public enum Demo4 {
     /**
      *
      */
-    getInstance(),
-    getInstance2();;
+    getInstance,
+    getInstance2;
+
+
+
     private Demo1 demo1;
     Demo4() {
         demo1 = new Demo1();

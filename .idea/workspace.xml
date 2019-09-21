@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="179aa664-a957-43fc-a040-6fcf8a3c0c77" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/算法/leetcode/LeetCode13.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/设计模式/单例模式/复习/Demo2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/设计模式/单例模式/复习/Demo2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/设计模式/单例模式/复习/Demo4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/设计模式/单例模式/复习/Demo4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/设计模式/单例模式/复习/Demo4.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/设计模式/单例模式/复习/Demo4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/语法/深拷贝和浅拷贝/Demo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/语法/深拷贝和浅拷贝/Demo.class" afterDir="false" />
-    </list>
+    <list default="true" id="179aa664-a957-43fc-a040-6fcf8a3c0c77" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -628,7 +621,7 @@
       <workItem from="1568866869308" duration="3137000" />
       <workItem from="1568896517441" duration="660000" />
       <workItem from="1568982640038" duration="872000" />
-      <workItem from="1569033023524" duration="1253000" />
+      <workItem from="1569033023524" duration="1494000" />
     </task>
     <servers />
   </component>

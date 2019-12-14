@@ -1,6 +1,6 @@
 package 算法;
 
-public class 快速排序 {
+public class      快速排序 {
 
 
     public static void quickSort(int array[], int left, int right) {

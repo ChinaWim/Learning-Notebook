@@ -1,6 +1,6 @@
 package 算法;
 
-public class 二分搜索 {
+public class  二分搜索 {
 
 
     public static int binarySearch(int[] array, int number, int start, int end) {

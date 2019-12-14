@@ -28,7 +28,7 @@ public class 归并排序 {
         System.out.println(Arrays.toString(a));
     }
 
-    public static int[] sort(int[] a, int low, int high) {
+    public static void sort(int[] a, int low, int high) {
         int mid = (low + high) / 2;
         if (low < high) {
 
@@ -37,8 +37,6 @@ public class 归并排序 {
             //左右归并
             merge(a, low, mid, high);
         }
-        return a;
-
     }
 
     public static void merge(int[] a, int low, int mid, int high) {

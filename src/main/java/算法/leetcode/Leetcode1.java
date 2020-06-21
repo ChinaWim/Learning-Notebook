@@ -6,7 +6,7 @@ import java.util.Scanner;
  * @author m969130721@163.com
  * @date 18-8-19 下午7:39
  */
-public class leetcode1 {
+public class Leetcode1 {
 
     static int[][] box = new int [50][50];
     static int[][] dire = {{0,1},{1,0},{-1,0},{0,-1}};

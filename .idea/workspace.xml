@@ -2,18 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="179aa664-a957-43fc-a040-6fcf8a3c0c77" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/算法/leetcode/Leetcode221.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/算法/leetcode/Leetcode22.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/算法/二分搜索.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/算法/归并排序.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/算法/快速排序.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/算法/递归/走楼梯.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/面试/秋招/招商/比特币最佳买卖时机.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/面试/秋招/招商/爱吃喵粮的小招喵.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/面试/秋招/招商/鸡鸭分类问题.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/算法/归并排序.class" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/算法/leetcode/Leetcode124.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/算法/leetcode/Leetcode27.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/算法/leetcode/leetcode1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/算法/leetcode/Leetcode1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/算法/leetcode/leetcode1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/算法/leetcode/leetcode1.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -123,7 +116,21 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Leetcode221">
+  <component name="RunManager" selected="Application.Leetcode124">
+    <configuration name="Leetcode124" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="算法.leetcode.Leetcode124" />
+      <module name="Learning-Notebook" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="算法.leetcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Leetcode22" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="算法.leetcode.Leetcode22" />
       <module name="Learning-Notebook" />
@@ -152,6 +159,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Leetcode27" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="算法.leetcode.Leetcode27" />
+      <module name="Learning-Notebook" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="算法.leetcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Niodemo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="io.NIO.Niodemo1" />
       <module name="Learning-Notebook" />
@@ -165,31 +186,6 @@
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
-    </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="io.AIO.Test" />
-      <module name="Learning-Notebook" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="io.AIO.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="数组奇数放前面" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="算法.剑指offer.数组奇数放前面" />
-      <module name="JavaBase" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="算法.剑指offer.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
     </configuration>
     <configuration name="死锁" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="面试.秋招.死锁" />
@@ -394,20 +390,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exception.test" />
-      <module name="Learning-Notebook" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="exception.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" />
@@ -427,19 +409,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.test" />
-      <item itemvalue="Application.Test" />
       <item itemvalue="Application.Niodemo1" />
       <item itemvalue="Application.Leetcode22" />
       <item itemvalue="Application.Leetcode221" />
+      <item itemvalue="Application.Leetcode27" />
+      <item itemvalue="Application.Leetcode124" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Leetcode124" />
+        <item itemvalue="Application.Leetcode27" />
         <item itemvalue="Application.Leetcode221" />
         <item itemvalue="Application.Leetcode22" />
         <item itemvalue="Application.Niodemo1" />
-        <item itemvalue="Application.Test" />
-        <item itemvalue="Application.test" />
       </list>
     </recent_temporary>
   </component>
@@ -712,6 +694,9 @@
       <workItem from="1569811572838" duration="1550000" />
       <workItem from="1569854095633" duration="326000" />
       <workItem from="1576329761707" duration="2617000" />
+      <workItem from="1591521385303" duration="1022000" />
+      <workItem from="1591628945356" duration="26000" />
+      <workItem from="1592740753288" duration="15698000" />
     </task>
     <servers />
   </component>
@@ -750,6 +735,9 @@
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Learning_Notebook$test.ic" NAME="test Coverage Results" MODIFIED="1569385324965" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>exception.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Learning_Notebook$Leetcode124.ic" NAME="Leetcode124 Coverage Results" MODIFIED="1592749922012" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>算法.leetcode.*</FILTER>
     </SUITE>
   </component>
 </project>

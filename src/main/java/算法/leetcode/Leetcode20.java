@@ -1,4 +1,4 @@
-package 算法;
+package 算法.leetcode;
 
 import org.apache.commons.lang3.StringUtils;
 

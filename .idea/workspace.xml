@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="179aa664-a957-43fc-a040-6fcf8a3c0c77" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/算法/Leetcode20.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/算法/leetcode/Leetcode39.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/算法/Leetcode20.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/算法/leetcode/Leetcode20.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -113,21 +114,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Leetcode77">
-    <configuration name="选择排序" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="算法.选择排序" />
-      <module name="Learning-Notebook" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="算法.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Leetcode39">
     <configuration name="Leetcode35" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="算法.leetcode.Leetcode35" />
       <module name="Learning-Notebook" />
@@ -142,8 +129,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Leetcode38_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="算法.leetcode.Leetcode38_2" />
+    <configuration name="Leetcode39" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="算法.leetcode.Leetcode39" />
       <module name="Learning-Notebook" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -337,20 +324,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.选择排序" />
-      <item itemvalue="Application.Leetcode38_2" />
       <item itemvalue="Application.Leetcode35" />
       <item itemvalue="Application.Leetcode53" />
       <item itemvalue="Application.Leetcode392" />
       <item itemvalue="Application.Leetcode77" />
+      <item itemvalue="Application.Leetcode39" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Leetcode39" />
         <item itemvalue="Application.Leetcode77" />
         <item itemvalue="Application.Leetcode392" />
         <item itemvalue="Application.Leetcode53" />
         <item itemvalue="Application.Leetcode35" />
-        <item itemvalue="Application.Leetcode38_2" />
       </list>
     </recent_temporary>
   </component>
@@ -656,7 +642,7 @@
       <workItem from="1599488520558" duration="1691000" />
       <workItem from="1599490336736" duration="2554000" />
       <workItem from="1599578946111" duration="2288000" />
-      <workItem from="1599665992709" duration="1088000" />
+      <workItem from="1599665992709" duration="5116000" />
     </task>
     <servers />
   </component>

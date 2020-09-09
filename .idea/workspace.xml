@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="179aa664-a957-43fc-a040-6fcf8a3c0c77" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/算法/leetcode/Leetcode77.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/算法/Leetcode20.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -114,6 +114,20 @@
     </option>
   </component>
   <component name="RunManager" selected="Application.Leetcode77">
+    <configuration name="选择排序" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="算法.选择排序" />
+      <module name="Learning-Notebook" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="算法.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Leetcode35" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="算法.leetcode.Leetcode35" />
       <module name="Learning-Notebook" />
@@ -184,13 +198,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="选择排序" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="算法.选择排序" />
+    <configuration name="电子卡券" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="算法.牛客网.有赞.电子卡券" />
       <module name="Learning-Notebook" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="算法.*" />
+          <option name="PATTERN" value="算法.牛客网.有赞.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -298,20 +312,6 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="电子卡券" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="算法.牛客网.有赞.电子卡券" />
-      <module name="Learning-Notebook" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="算法.牛客网.有赞.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
@@ -337,6 +337,7 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.选择排序" />
       <item itemvalue="Application.Leetcode38_2" />
       <item itemvalue="Application.Leetcode35" />
       <item itemvalue="Application.Leetcode53" />
@@ -654,7 +655,8 @@
       <workItem from="1599487788016" duration="510000" />
       <workItem from="1599488520558" duration="1691000" />
       <workItem from="1599490336736" duration="2554000" />
-      <workItem from="1599578946111" duration="1569000" />
+      <workItem from="1599578946111" duration="2288000" />
+      <workItem from="1599665992709" duration="1088000" />
     </task>
     <servers />
   </component>

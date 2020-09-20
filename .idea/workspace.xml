@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="179aa664-a957-43fc-a040-6fcf8a3c0c77" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/算法/leetcode/leetcode226/Leetcode226.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/算法/leetcode/leetcode226/TreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/算法/leetcode/Leetcode06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/算法/leetcode/Leetcode1431.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/算法/leetcode/Leetcode1480.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/算法/leetcode/Leetcode59.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/算法/leetcode/Leetcode78.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <list id="e8d21b56-62bb-4d0a-ac66-f3b8b6ef4a21" name="每日一题" comment="" />
@@ -115,7 +118,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Leetcode226">
+  <component name="RunManager" selected="Application.Leetcode59">
     <configuration name="五子棋" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="算法.计蒜客.线上赛20200912.五子棋" />
       <module name="Learning-Notebook" />
@@ -144,13 +147,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Leetcode39" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="算法.leetcode.Leetcode39" />
+    <configuration name="Leetcode59" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="算法.leetcode.Leetcode59" />
       <module name="Learning-Notebook" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="算法.leetcode.leetcode226.*" />
+          <option name="PATTERN" value="算法.leetcode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -172,13 +175,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Leetcode77" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="算法.leetcode.Leetcode77" />
+    <configuration name="Leetcode78" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="算法.leetcode.Leetcode78" />
       <module name="Learning-Notebook" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="算法.leetcode.leetcode226.*" />
+          <option name="PATTERN" value="算法.leetcode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -311,19 +314,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Leetcode77" />
-      <item itemvalue="Application.Leetcode39" />
       <item itemvalue="Application.五子棋" />
       <item itemvalue="Application.Leetcode6" />
       <item itemvalue="Application.Leetcode226" />
+      <item itemvalue="Application.Leetcode78" />
+      <item itemvalue="Application.Leetcode59" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Leetcode59" />
+        <item itemvalue="Application.Leetcode78" />
         <item itemvalue="Application.Leetcode226" />
         <item itemvalue="Application.Leetcode6" />
         <item itemvalue="Application.五子棋" />
-        <item itemvalue="Application.Leetcode39" />
-        <item itemvalue="Application.Leetcode77" />
       </list>
     </recent_temporary>
   </component>
@@ -638,7 +641,10 @@
       <workItem from="1599896901287" duration="13409000" />
       <workItem from="1600095329909" duration="671000" />
       <workItem from="1600180917995" duration="4845000" />
-      <workItem from="1600268116406" duration="1511000" />
+      <workItem from="1600268116406" duration="2536000" />
+      <workItem from="1600353779268" duration="497000" />
+      <workItem from="1600486528142" duration="590000" />
+      <workItem from="1600613729782" duration="7151000" />
     </task>
     <servers />
   </component>

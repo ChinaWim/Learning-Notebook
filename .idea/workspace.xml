@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="179aa664-a957-43fc-a040-6fcf8a3c0c77" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/算法/leetcode/Leetcode06.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/算法/leetcode/Leetcode1431.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/算法/leetcode/Leetcode1480.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/算法/leetcode/Leetcode59.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/算法/leetcode/Leetcode78.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/算法/极客时间/动态规划/凑硬币.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <list id="e8d21b56-62bb-4d0a-ac66-f3b8b6ef4a21" name="每日一题" comment="" />
@@ -118,14 +114,14 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Leetcode59">
-    <configuration name="五子棋" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="算法.计蒜客.线上赛20200912.五子棋" />
+  <component name="RunManager" selected="Application.凑硬币">
+    <configuration name="凑硬币" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="算法.极客时间.动态规划.凑硬币" />
       <module name="Learning-Notebook" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="算法.计蒜客.线上赛20200912.*" />
+          <option name="PATTERN" value="算法.极客时间.动态规划.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -314,19 +310,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.五子棋" />
       <item itemvalue="Application.Leetcode6" />
       <item itemvalue="Application.Leetcode226" />
       <item itemvalue="Application.Leetcode78" />
       <item itemvalue="Application.Leetcode59" />
+      <item itemvalue="Application.凑硬币" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.凑硬币" />
         <item itemvalue="Application.Leetcode59" />
         <item itemvalue="Application.Leetcode78" />
         <item itemvalue="Application.Leetcode226" />
         <item itemvalue="Application.Leetcode6" />
-        <item itemvalue="Application.五子棋" />
       </list>
     </recent_temporary>
   </component>
@@ -644,7 +640,8 @@
       <workItem from="1600268116406" duration="2536000" />
       <workItem from="1600353779268" duration="497000" />
       <workItem from="1600486528142" duration="590000" />
-      <workItem from="1600613729782" duration="7151000" />
+      <workItem from="1600613729782" duration="7439000" />
+      <workItem from="1600695779153" duration="6196000" />
     </task>
     <servers />
   </component>

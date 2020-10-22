@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="179aa664-a957-43fc-a040-6fcf8a3c0c77" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/算法/极客时间/动态规划/凑硬币.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/算法/leetcode/Leetcode763.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <list id="e8d21b56-62bb-4d0a-ac66-f3b8b6ef4a21" name="每日一题" comment="" />
@@ -114,7 +114,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.凑硬币">
+  <component name="RunManager" selected="Application.Leetcode763">
     <configuration name="凑硬币" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="算法.极客时间.动态规划.凑硬币" />
       <module name="Learning-Notebook" />
@@ -157,13 +157,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Leetcode6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="算法.leetcode.Leetcode6" />
+    <configuration name="Leetcode763" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="算法.leetcode.Leetcode763" />
       <module name="Learning-Notebook" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="算法.leetcode.leetcode226.*" />
+          <option name="PATTERN" value="算法.leetcode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -310,19 +310,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Leetcode6" />
       <item itemvalue="Application.Leetcode226" />
       <item itemvalue="Application.Leetcode78" />
       <item itemvalue="Application.Leetcode59" />
       <item itemvalue="Application.凑硬币" />
+      <item itemvalue="Application.Leetcode763" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Leetcode763" />
         <item itemvalue="Application.凑硬币" />
         <item itemvalue="Application.Leetcode59" />
         <item itemvalue="Application.Leetcode78" />
         <item itemvalue="Application.Leetcode226" />
-        <item itemvalue="Application.Leetcode6" />
       </list>
     </recent_temporary>
   </component>

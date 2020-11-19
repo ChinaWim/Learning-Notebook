@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="179aa664-a957-43fc-a040-6fcf8a3c0c77" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/算法/leetcode/多线程/IntConsumer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/算法/leetcode/多线程/ZeroEvenOdd.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="179aa664-a957-43fc-a040-6fcf8a3c0c77" name="Default" comment="" />
     <list id="e8d21b56-62bb-4d0a-ac66-f3b8b6ef4a21" name="每日一题" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -653,7 +649,7 @@
       <workItem from="1604823219165" duration="122000" />
       <workItem from="1604823398521" duration="298000" />
       <workItem from="1604823753757" duration="113000" />
-      <workItem from="1605800041080" duration="3946000" />
+      <workItem from="1605800041080" duration="4422000" />
     </task>
     <servers />
   </component>

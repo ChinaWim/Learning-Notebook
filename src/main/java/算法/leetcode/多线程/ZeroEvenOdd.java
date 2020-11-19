@@ -24,6 +24,8 @@ public class ZeroEvenOdd {
                 printNumber.accept(0);
                 zeroOutFlag = false;
                 oddEvenOutFlag = true;
+            }else {
+                Thread.yield();
             }
 
         }
@@ -35,6 +37,8 @@ public class ZeroEvenOdd {
                 printNumber.accept(atomicX.get());
                 zeroOutFlag = true;
                 oddEvenOutFlag = false;
+            }else {
+                Thread.yield();
             }
         }
     }
@@ -45,6 +49,8 @@ public class ZeroEvenOdd {
                 printNumber.accept(atomicX.get());
                 zeroOutFlag = true;
                 oddEvenOutFlag = false;
+            }else {
+                Thread.yield();
             }
 
         }

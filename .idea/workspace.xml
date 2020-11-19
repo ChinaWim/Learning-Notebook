@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="179aa664-a957-43fc-a040-6fcf8a3c0c77" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/算法/leetcode/Leetcode1365.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/算法/leetcode/多线程/IntConsumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/算法/leetcode/多线程/ZeroEvenOdd.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <list id="e8d21b56-62bb-4d0a-ac66-f3b8b6ef4a21" name="每日一题" comment="" />
@@ -82,7 +83,7 @@
     <property name="project.structure.proportion" value="0.14872637" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="yiiguxing.plugin.translate" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -114,7 +115,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Leetcode1365">
+  <component name="RunManager" selected="Application.ZeroEvenOdd">
     <configuration name="凑硬币" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="算法.极客时间.动态规划.凑硬币" />
       <module name="Learning-Notebook" />
@@ -143,20 +144,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Leetcode59" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="算法.leetcode.Leetcode59" />
-      <module name="Learning-Notebook" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="算法.leetcode.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Leetcode763" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="算法.leetcode.Leetcode763" />
       <module name="Learning-Notebook" />
@@ -171,13 +158,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Leetcode78" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="算法.leetcode.Leetcode78" />
+    <configuration name="NtpDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="项目.NtpDemo" />
       <module name="Learning-Notebook" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="算法.leetcode.*" />
+          <option name="PATTERN" value="项目.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ZeroEvenOdd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="算法.leetcode.多线程.ZeroEvenOdd" />
+      <module name="Learning-Notebook" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="算法.leetcode.多线程.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -310,19 +311,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Leetcode78" />
-      <item itemvalue="Application.Leetcode59" />
       <item itemvalue="Application.凑硬币" />
       <item itemvalue="Application.Leetcode763" />
       <item itemvalue="Application.Leetcode1365" />
+      <item itemvalue="Application.NtpDemo" />
+      <item itemvalue="Application.ZeroEvenOdd" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ZeroEvenOdd" />
+        <item itemvalue="Application.NtpDemo" />
         <item itemvalue="Application.Leetcode1365" />
         <item itemvalue="Application.Leetcode763" />
         <item itemvalue="Application.凑硬币" />
-        <item itemvalue="Application.Leetcode59" />
-        <item itemvalue="Application.Leetcode78" />
       </list>
     </recent_temporary>
   </component>
@@ -643,7 +644,16 @@
       <workItem from="1600613729782" duration="7439000" />
       <workItem from="1600695779153" duration="6196000" />
       <workItem from="1603459615182" duration="57000" />
-      <workItem from="1603722508850" duration="3514000" />
+      <workItem from="1603722508850" duration="5514000" />
+      <workItem from="1604121888230" duration="10309000" />
+      <workItem from="1604214204260" duration="542000" />
+      <workItem from="1604329429678" duration="1276000" />
+      <workItem from="1604499462739" duration="551000" />
+      <workItem from="1604669313820" duration="238000" />
+      <workItem from="1604823219165" duration="122000" />
+      <workItem from="1604823398521" duration="298000" />
+      <workItem from="1604823753757" duration="113000" />
+      <workItem from="1605800041080" duration="3946000" />
     </task>
     <servers />
   </component>
@@ -680,11 +690,6 @@
           <url>file://$PROJECT_DIR$/src/main/java/算法/leetcode/Leetcode6.java</url>
           <line>67</line>
           <option name="timeStamp" value="81" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/算法/leetcode/Leetcode1365.java</url>
-          <line>19</line>
-          <option name="timeStamp" value="82" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

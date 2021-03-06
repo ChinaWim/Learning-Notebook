@@ -2,89 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="179aa664-a957-43fc-a040-6fcf8a3c0c77" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/算法/leetcode/algorithms/easy/Leetcode06.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/算法/leetcode/algorithms/easy/Leetcode1207.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/算法/leetcode/algorithms/easy/Leetcode242.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/算法/leetcode/algorithms/easy/Leetcode263.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/算法/leetcode/algorithms/easy/Leetcode7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/算法/leetcode/algorithms/easy/Leetcode771.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/算法/leetcode/algorithms/medium/Leetcode1079.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/算法/leetcode/algorithms/medium/Leetcode3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/算法/leetcode/algorithms/medium/leetcode2/Leetcode2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/算法/leetcode/algorithms/medium/leetcode2/ListNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/算法/leetcode/database/easy/Leetcode1179.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/算法/leetcode/database/easy/Leetcode175.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/算法/leetcode/database/easy/Leetcode176.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/算法/leetcode/database/easy/Leetcode181.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/算法/leetcode/database/easy/Leetcode182.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/算法/leetcode/database/easy/Leetcode183.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/算法/leetcode/database/easy/Leetcode185.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/算法/leetcode/database/easy/Leetcode196.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/算法/leetcode/database/easy/Leetcode197.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/算法/leetcode/database/easy/Leetcode595.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/算法/leetcode/database/easy/Leetcode596.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/算法/leetcode/database/easy/Leetcode620.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/算法/leetcode/database/easy/Leetcode627.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/算法/leetcode/database/medium/Leetcode177.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/算法/leetcode/database/medium/Leetcode178.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/算法/leetcode/database/medium/Leetcode180.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/算法/leetcode/database/medium/Leetcode184.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/算法/leetcode/database/medium/Leetcode626.sql" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/算法/leetcode/LeetCode13.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/算法/leetcode/algorithms/easy/Leetcode13.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/算法/leetcode/Leetcode06.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/算法/leetcode/Leetcode1052.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/算法/leetcode/algorithms/medium/Leetcode1052.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/算法/leetcode/Leetcode124.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/算法/leetcode/algorithms/hard/Leetcode124.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/算法/leetcode/Leetcode1365.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/算法/leetcode/algorithms/easy/Leetcode1365.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/算法/leetcode/Leetcode14.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/算法/leetcode/algorithms/easy/Leetcode14.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/算法/leetcode/Leetcode1428.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/算法/leetcode/algorithms/medium/Leetcode1438.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/算法/leetcode/Leetcode1431.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/算法/leetcode/algorithms/easy/Leetcode1431.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/算法/leetcode/Leetcode1480.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/算法/leetcode/algorithms/easy/Leetcode1480.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/算法/leetcode/Leetcode1518.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/算法/leetcode/algorithms/easy/Leetcode1518.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/算法/leetcode/Leetcode20.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/算法/leetcode/algorithms/easy/Leetcode20.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/算法/leetcode/Leetcode22.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/算法/leetcode/algorithms/medium/Leetcode22.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/算法/leetcode/Leetcode221.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/算法/leetcode/algorithms/medium/Leetcode221.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/算法/leetcode/Leetcode26.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/算法/leetcode/algorithms/easy/Leetcode26.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/算法/leetcode/Leetcode27.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/算法/leetcode/algorithms/easy/Leetcode27.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/算法/leetcode/Leetcode28.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/算法/leetcode/algorithms/easy/Leetcode28.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/算法/leetcode/Leetcode338.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/算法/leetcode/algorithms/medium/Leetcode338.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/算法/leetcode/Leetcode35.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/算法/leetcode/algorithms/easy/Leetcode35.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/算法/leetcode/Leetcode38.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/算法/leetcode/algorithms/easy/Leetcode38.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/算法/leetcode/Leetcode38_2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/算法/leetcode/Leetcode39.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/算法/leetcode/algorithms/medium/Leetcode39.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/算法/leetcode/Leetcode392.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/算法/leetcode/algorithms/easy/Leetcode392.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/算法/leetcode/Leetcode401.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/算法/leetcode/Leetcode41.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/算法/leetcode/algorithms/hard/Leetcode41.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/算法/leetcode/Leetcode503.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/算法/leetcode/algorithms/medium/Leetcode503.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/算法/leetcode/Leetcode53.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/算法/leetcode/algorithms/easy/Leetcode53.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/算法/leetcode/Leetcode59.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/算法/leetcode/algorithms/medium/Leetcode59.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/算法/leetcode/Leetcode6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/算法/leetcode/algorithms/medium/Leetcode6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/算法/leetcode/Leetcode724.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/算法/leetcode/algorithms/easy/Leetcode724.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/算法/leetcode/Leetcode763.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/算法/leetcode/algorithms/medium/Leetcode763.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/算法/leetcode/Leetcode766.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/算法/leetcode/algorithms/easy/Leetcode766.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/算法/leetcode/Leetcode77.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/算法/leetcode/algorithms/medium/Leetcode77.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/算法/leetcode/Leetcode78.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/算法/leetcode/algorithms/medium/Leetcode78.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/算法/leetcode/Leetcode832.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/算法/leetcode/algorithms/easy/Leetcode832.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/算法/leetcode/Leetcode867.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/算法/leetcode/algorithms/easy/Leetcode867.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/算法/leetcode/Leetcode896.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/算法/leetcode/algorithms/easy/Leetcode896.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/算法/leetcode/Leetcode9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/算法/leetcode/algorithms/easy/Leetcode9.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/算法/leetcode/Leetcode953.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/算法/leetcode/algorithms/easy/Leetcode953.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/算法/leetcode/Prime.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/算法/数论/Prime.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/算法/leetcode/leetcode1261/FindElements.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/算法/leetcode/algorithms/medium/leetcode1261/FindElements.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/算法/leetcode/leetcode1261/TreeNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/算法/leetcode/algorithms/medium/leetcode1261/TreeNode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/算法/leetcode/leetcode226/Leetcode226.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/算法/leetcode/algorithms/easy/leetcode226/Leetcode226.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/算法/leetcode/leetcode226/TreeNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/算法/leetcode/algorithms/easy/leetcode226/TreeNode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/算法/leetcode/leetcode700/Leetcode700.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/算法/leetcode/algorithms/easy/leetcode700/Leetcode700.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/算法/leetcode/leetcode700/TreeNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/算法/leetcode/algorithms/easy/leetcode700/TreeNode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/算法/leetcode/多线程/IntConsumer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/算法/leetcode/concurrency/medium/leetcode1116/IntConsumer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/算法/leetcode/多线程/ZeroEvenOdd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/算法/leetcode/concurrency/medium/leetcode1116/ZeroEvenOdd.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/算法/leetcode/LeetCode13.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/算法/leetcode/Leetcode14.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/算法/leetcode/Leetcode22.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/算法/leetcode/Leetcode221.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/算法/leetcode/Leetcode26.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/算法/leetcode/Leetcode9.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/算法/剑指offer/逆序打印链表.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/算法/剑指offer/逆序打印链表.class" afterDir="false" />
     </list>
     <list id="e8d21b56-62bb-4d0a-ac66-f3b8b6ef4a21" name="每日一题" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -672,7 +590,7 @@
       <workItem from="1614346686901" duration="511000" />
       <workItem from="1614516490912" duration="1093000" />
       <workItem from="1614783970053" duration="1903000" />
-      <workItem from="1615013443104" duration="20197000" />
+      <workItem from="1615013443104" duration="20743000" />
     </task>
     <servers />
   </component>

@@ -2,11 +2,27 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="179aa664-a957-43fc-a040-6fcf8a3c0c77" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/算法/Leetcode621.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/线程/慕课并发教程/AtumoicBooleanThreadSafe.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/线程/慕课并发教程/UnThreadSafe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/算法/leetcode/Leetcode1052.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/算法/leetcode/Leetcode1428.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/算法/leetcode/Leetcode338.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/算法/leetcode/Leetcode503.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/算法/leetcode/Leetcode724.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/算法/leetcode/Leetcode766.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/算法/leetcode/Leetcode832.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/算法/leetcode/Leetcode867.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/算法/leetcode/Leetcode896.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/算法/leetcode/Leetcode992.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/算法/leetcode/Leetcode992_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/算法/leetcode/Leetcode992_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/算法/leetcode/leetcode700/Leetcode700.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/算法/leetcode/leetcode700/TreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/算法/剑指offer/字符串排序.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/设计模式/单例模式/Demo3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/设计模式/单例模式/Demo3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/线程/Demo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/线程/Demo1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/线程/Demo1$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/线程/Demo1$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/线程/Demo1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/线程/Demo1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/设计模式/单例模式/Demo3.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/设计模式/单例模式/Demo3.class" afterDir="false" />
     </list>
     <list id="e8d21b56-62bb-4d0a-ac66-f3b8b6ef4a21" name="每日一题" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -85,15 +101,15 @@
     <property name="project.structure.proportion" value="0.14872637" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="算法.leetcode" />
       <recent name="线程.慕课并发教程" />
       <recent name="项目.pojo" />
       <recent name="算法.计蒜客" />
       <recent name="设计模式.单例模式.Test" />
-      <recent name="算法.leetcode" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/main/resources" />
@@ -118,14 +134,14 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.AtumoicBooleanThreadSafe">
-    <configuration name="AtumoicBooleanThreadSafe" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="线程.慕课并发教程.AtumoicBooleanThreadSafe" />
+  <component name="RunManager" selected="Application.Leetcode503">
+    <configuration name="Leetcode1052" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="算法.leetcode.Leetcode1052" />
       <module name="Learning-Notebook" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="线程.慕课并发教程.*" />
+          <option name="PATTERN" value="算法.leetcode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -133,13 +149,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Leetcode621" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="算法.Leetcode621" />
+    <configuration name="Leetcode338" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="算法.leetcode.Leetcode338" />
       <module name="Learning-Notebook" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="算法.*" />
+          <option name="PATTERN" value="算法.leetcode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -147,13 +163,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NtpDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="项目.NtpDemo" />
+    <configuration name="Leetcode503" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="算法.leetcode.Leetcode503" />
       <module name="Learning-Notebook" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="项目.*" />
+          <option name="PATTERN" value="算法.leetcode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -161,13 +177,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UnThreadSafe" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="线程.慕课并发教程.UnThreadSafe" />
+    <configuration name="Leetcode832" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="算法.leetcode.Leetcode832" />
       <module name="Learning-Notebook" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="线程.慕课并发教程.*" />
+          <option name="PATTERN" value="算法.leetcode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -175,88 +191,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ZeroEvenOdd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="算法.leetcode.多线程.ZeroEvenOdd" />
+    <configuration name="Leetcode867" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="算法.leetcode.Leetcode867" />
       <module name="Learning-Notebook" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="算法.leetcode.多线程.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="数组移动跳跃" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="算法.牛客网.有赞.数组移动跳跃" />
-      <module name="Learning-Notebook" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="算法.牛客网.有赞.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="学生平均成绩排序" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="面试.秋招.平安科技.学生平均成绩排序" />
-      <module name="JavaBase" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="面试.秋招.平安科技.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="猴子吃桃" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="算法.基础练习题.猴子吃桃" />
-      <module name="JavaBase" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="算法.基础练习题.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="比特币最佳买卖时机" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="面试.秋招.招商.比特币最佳买卖时机" />
-      <module name="Learning-Notebook" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="面试.秋招.招商.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="鸡鸭分类问题" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="面试.秋招.招商.鸡鸭分类问题" />
-      <module name="Learning-Notebook" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="面试.秋招.招商.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="数组移动跳跃" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="算法.牛客网.有赞.数组移动跳跃" />
-      <module name="Learning-Notebook" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="算法.牛客网.有赞.*" />
+          <option name="PATTERN" value="算法.leetcode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -300,19 +241,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.NtpDemo" />
-      <item itemvalue="Application.ZeroEvenOdd" />
-      <item itemvalue="Application.Leetcode621" />
-      <item itemvalue="Application.UnThreadSafe" />
-      <item itemvalue="Application.AtumoicBooleanThreadSafe" />
+      <item itemvalue="Application.Leetcode832" />
+      <item itemvalue="Application.Leetcode1052" />
+      <item itemvalue="Application.Leetcode867" />
+      <item itemvalue="Application.Leetcode338" />
+      <item itemvalue="Application.Leetcode503" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.AtumoicBooleanThreadSafe" />
-        <item itemvalue="Application.UnThreadSafe" />
-        <item itemvalue="Application.Leetcode621" />
-        <item itemvalue="Application.ZeroEvenOdd" />
-        <item itemvalue="Application.NtpDemo" />
+        <item itemvalue="Application.Leetcode503" />
+        <item itemvalue="Application.Leetcode338" />
+        <item itemvalue="Application.Leetcode867" />
+        <item itemvalue="Application.Leetcode1052" />
+        <item itemvalue="Application.Leetcode832" />
       </list>
     </recent_temporary>
   </component>
@@ -645,7 +586,28 @@
       <workItem from="1605800041080" duration="5783000" />
       <workItem from="1606053252359" duration="159000" />
       <workItem from="1607179172162" duration="7882000" />
-      <workItem from="1607241106544" duration="4982000" />
+      <workItem from="1607241106544" duration="5178000" />
+      <workItem from="1607351070328" duration="752000" />
+      <workItem from="1607431848136" duration="598000" />
+      <workItem from="1607704632971" duration="564000" />
+      <workItem from="1607747547540" duration="598000" />
+      <workItem from="1609775971905" duration="2705000" />
+      <workItem from="1609947875516" duration="597000" />
+      <workItem from="1610159975594" duration="598000" />
+      <workItem from="1610368064709" duration="728000" />
+      <workItem from="1611842917611" duration="4408000" />
+      <workItem from="1612002894845" duration="310000" />
+      <workItem from="1612188881696" duration="595000" />
+      <workItem from="1612878463030" duration="16535000" />
+      <workItem from="1613547612697" duration="1012000" />
+      <workItem from="1613914843914" duration="4445000" />
+      <workItem from="1614005145233" duration="1998000" />
+      <workItem from="1614175542292" duration="3967000" />
+      <workItem from="1614265743394" duration="2104000" />
+      <workItem from="1614346686901" duration="511000" />
+      <workItem from="1614516490912" duration="1093000" />
+      <workItem from="1614783970053" duration="1903000" />
+      <workItem from="1615013443104" duration="5895000" />
     </task>
     <servers />
   </component>

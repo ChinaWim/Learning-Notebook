@@ -2,6 +2,7 @@ package 线程;
 
 import org.junit.Test;
 
+import java.util.Random;
 import java.util.concurrent.*;
 import java.util.stream.IntStream;
 

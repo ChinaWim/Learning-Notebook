@@ -2,27 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="179aa664-a957-43fc-a040-6fcf8a3c0c77" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/算法/leetcode/Leetcode1052.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/算法/leetcode/Leetcode1428.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/算法/leetcode/Leetcode338.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/算法/leetcode/Leetcode503.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/算法/leetcode/Leetcode724.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/算法/leetcode/Leetcode766.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/算法/leetcode/Leetcode832.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/算法/leetcode/Leetcode867.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/算法/leetcode/Leetcode896.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/算法/leetcode/Leetcode992.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/算法/leetcode/Leetcode992_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/算法/leetcode/Leetcode992_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/算法/leetcode/leetcode700/Leetcode700.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/算法/leetcode/leetcode700/TreeNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/算法/剑指offer/字符串排序.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/算法/leetcode/Leetcode1518.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/线程/Demo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/线程/Demo1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/线程/Demo1$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/线程/Demo1$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/线程/Demo1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/线程/Demo1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/设计模式/单例模式/Demo3.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/设计模式/单例模式/Demo3.class" afterDir="false" />
     </list>
     <list id="e8d21b56-62bb-4d0a-ac66-f3b8b6ef4a21" name="每日一题" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -134,9 +115,23 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Leetcode503">
+  <component name="RunManager" selected="Application.Leetcode1518">
     <configuration name="Leetcode1052" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="算法.leetcode.Leetcode1052" />
+      <module name="Learning-Notebook" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="算法.leetcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Leetcode1518" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="算法.leetcode.Leetcode1518" />
       <module name="Learning-Notebook" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -165,20 +160,6 @@
     </configuration>
     <configuration name="Leetcode503" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="算法.leetcode.Leetcode503" />
-      <module name="Learning-Notebook" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="算法.leetcode.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Leetcode832" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="算法.leetcode.Leetcode832" />
       <module name="Learning-Notebook" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -241,19 +222,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Leetcode832" />
       <item itemvalue="Application.Leetcode1052" />
       <item itemvalue="Application.Leetcode867" />
       <item itemvalue="Application.Leetcode338" />
       <item itemvalue="Application.Leetcode503" />
+      <item itemvalue="Application.Leetcode1518" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Leetcode1518" />
         <item itemvalue="Application.Leetcode503" />
         <item itemvalue="Application.Leetcode338" />
         <item itemvalue="Application.Leetcode867" />
         <item itemvalue="Application.Leetcode1052" />
-        <item itemvalue="Application.Leetcode832" />
       </list>
     </recent_temporary>
   </component>
@@ -607,7 +588,7 @@
       <workItem from="1614346686901" duration="511000" />
       <workItem from="1614516490912" duration="1093000" />
       <workItem from="1614783970053" duration="1903000" />
-      <workItem from="1615013443104" duration="5895000" />
+      <workItem from="1615013443104" duration="9342000" />
     </task>
     <servers />
   </component>

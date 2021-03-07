@@ -2,7 +2,209 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="179aa664-a957-43fc-a040-6fcf8a3c0c77" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/算法/leetcode/algorithms/easy/Leetcode5697.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/算法/leetcode/algorithms/hard/Leetcode5700.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/算法/leetcode/algorithms/medium/Leetcode5698.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/算法/leetcode/algorithms/medium/Leetcode5699.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/applicationContext-solr.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/exception/TryCatch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/fdfs_client.conf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/io/AIO/AIOClient$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/io/AIO/AIOClient$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/io/AIO/AIOClient.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/io/AIO/AIODemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/io/AIO/AIOServer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/io/AIO/AcceptHandler$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/io/AIO/AcceptHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/io/FileIO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/io/NIO/NIOClient.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/io/NIO/NIOServer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/io/NIO/NIOServerRead.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/io/NIO/Niodemo1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/io/NIO/复习/NIOClient.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/io/NIO/复习/NIOServer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java8/FinalTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java8/FunctionInterface2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java8/LambdaDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java8/StringOperation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java8/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java8/Trader.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java8/Transaction.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java8/并行流/Demo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java8/方法引用/LambdaDeomo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java8/默认静态方法/DefaultMethod.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java8/默认静态方法/DefaultMethod2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java8/默认静态方法/Demo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java8/默认静态方法/Demo1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java9/Streamdemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/jni/HelloNative.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/jvm/MyClassLoader.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/jvm/hot/HelloService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/jvm/hot/HotDeployDemo$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/jvm/hot/HotDeployDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/jvm/hot/IHelloService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/test/MyTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/反射/DemoAll.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/反射/Ming.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/反射/People.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/反射/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/算法/Gcd.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/算法/leetcode/Leetcode401.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/算法/leetcode/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/算法/leetcode/Prime.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/算法/leetcode/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/算法/leetcode/TextProcessor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/算法/leetcode/leetcode1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/算法/leetcode/字符串消除.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/算法/leetcode/最大人工岛.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/算法/二分搜索.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/算法/冒泡排序.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/算法/剑指offer/JDBCPool.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/算法/剑指offer/ListNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/算法/剑指offer/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/算法/剑指offer/UglyNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/算法/剑指offer/二进制.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/算法/剑指offer/数组奇数放前面.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/算法/剑指offer/斐波那契数列.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/算法/剑指offer/旋转数组最小的数字.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/算法/剑指offer/替换空格.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/算法/剑指offer/用两个栈完成队列操作.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/算法/剑指offer/跳台阶.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/算法/剑指offer/逆序打印链表.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/算法/基础练习题/Array.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/算法/基础练习题/Demo2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/算法/基础练习题/Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/算法/基础练习题/SortDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/算法/基础练习题/猴子吃桃.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/算法/基础练习题/统计单词个数.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/算法/归并排序.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/算法/快速排序.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/算法/树/Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/算法/树/SearchTree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/算法/牛客网/Demo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/算法/牛客网/Demo2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/算法/牛客网/Demo3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/算法/牛客网/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/算法/牛客网/Maze.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/算法/牛客网/MazeFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/算法/牛客网/Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/算法/牛客网/有赞/字符串旋转.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/算法/牛客网/有赞/数组移动跳跃.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/算法/牛客网/有赞/电子卡券.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/算法/线性结构/LinkList$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/算法/线性结构/LinkList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/算法/计蒜客/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/算法/计蒜客/Main2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/算法/选择排序.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/算法/递归/走楼梯.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/算法/递归/选球问题.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/线程/Demo1$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/线程/Demo1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/线程/并发编程实战/A.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/线程/并发编程实战/BlockingQueue/DelayQueueDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/线程/并发编程实战/BlockingQueue/DelayedTask.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/线程/并发编程实战/BlockingQueue/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/线程/并发编程实战/BlockingQueue/SynchronousQueueDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/线程/并发编程实战/Lock/LockFairTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/线程/并发编程实战/ReadWriteLock/Demo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/线程/并发编程实战/ReadWriteLock/ReadWrite.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/线程/并发编程实战/ReadWriteLock/ReadWriteLockDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/线程/并发编程实战/ReadWriteLock/TestReadWriteLock$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/线程/并发编程实战/ReadWriteLock/TestReadWriteLock$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/线程/并发编程实战/ReadWriteLock/TestReadWriteLock.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/线程/并发编程实战/Runnable1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/线程/并发编程实战/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/线程/并发编程实战/ThreadSafeQuestion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/线程/并发编程实战/tools/CyclicBarrierDemo$BillTask.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/线程/并发编程实战/tools/CyclicBarrierDemo$TotalTask.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/线程/并发编程实战/tools/CyclicBarrierDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/线程/并发编程实战/tools/ExchangerDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/线程/并发编程实战/tools/SemaphoreDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/线程/并发编程实战/tools/闭锁/Demo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/线程/并发编程实战/tools/闭锁/MyThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/线程/并发编程实战/生产者消费者/Boss.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/线程/并发编程实战/生产者消费者/Consumer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/线程/并发编程实战/生产者消费者/Consumers.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/线程/并发编程实战/生产者消费者/Demo1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/线程/并发编程实战/生产者消费者/Demo2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/线程/并发编程实战/生产者消费者/Predictor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/线程/并发编程实战/生产者消费者/Proctor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/线程/并发编程实战/生产者消费者/Worker.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/线程/并发编程实战/生产者消费者/多种实现方式/BlockingQueueDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/线程/并发编程实战/生产者消费者/多种实现方式/Customer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/线程/并发编程实战/生产者消费者/多种实现方式/EatFood.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/线程/并发编程实战/生产者消费者/多种实现方式/Food.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/线程/并发编程实战/生产者消费者/多种实现方式/FoodFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/线程/并发编程实战/生产者消费者/多种实现方式/Gift.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/线程/并发编程实战/生产者消费者/多种实现方式/GiftFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/线程/并发编程实战/生产者消费者/多种实现方式/LockDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/线程/并发编程实战/生产者消费者/多种实现方式/Product.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/线程/并发编程实战/生产者消费者/多种实现方式/ProductFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/线程/并发编程实战/生产者消费者/多种实现方式/SemaphoreDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/线程/并发编程实战/生产者消费者/多种实现方式/SendGift.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/线程/并发编程实战/生产者消费者/多种实现方式/SynchronizedDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/线程/并发编程实战/线程池/DemoAll.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/线程/并发编程实战/线程池/Task.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/线程/并发编程实战/线程池/ThreadPoolExecutorTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/线程/死锁/Demo1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/线程/锁的类型/LoggingWidget.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/线程/锁的类型/Widget.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/网络/MySocket.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/网络/MySocketServer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/网络/ReadSubSocket.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/设计模式/单例模式/Demo1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/设计模式/单例模式/Demo2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/设计模式/单例模式/Demo3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/设计模式/单例模式/Demo4$Demo4Instance.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/设计模式/单例模式/Demo4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/设计模式/单例模式/Demo5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/设计模式/单例模式/Demo5Instance.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/设计模式/单例模式/复习/Demo1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/设计模式/单例模式/复习/Demo2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/设计模式/单例模式/复习/Demo3$InnerClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/设计模式/单例模式/复习/Demo3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/设计模式/单例模式/复习/Demo4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/设计模式/单例模式/复习/Single$T.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/设计模式/单例模式/复习/Single.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/语法/Child1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/语法/Child2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/语法/Child3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/语法/ExtendDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/语法/Father.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/语法/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/语法/Switch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/语法/位运算/Demo1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/语法/内部类/Demo$Inner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/语法/内部类/Demo$StaticInner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/语法/内部类/Demo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/语法/内部类/Outer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/语法/基本类型/Demo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/语法/深拷贝和浅拷贝/Car.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/语法/深拷贝和浅拷贝/Demo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/语法/深拷贝和浅拷贝/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/面试/秋招/OPPO/MyThread1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/面试/秋招/OPPO/MyThread2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/面试/秋招/OPPO/ThreadDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/面试/秋招/乐信/Demo1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/面试/秋招/乐信/Demo2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/面试/秋招/乐信/Demo3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/面试/秋招/平安科技/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/面试/秋招/平安科技/学生平均成绩排序.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/面试/秋招/平安科技/求树的高度.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/面试/秋招/招商/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/面试/秋招/招商/比特币最佳买卖时机.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/面试/秋招/招商/爱吃喵粮的小招喵.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/面试/秋招/招商/鸡鸭分类问题.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/面试/秋招/欢聚时代/Test1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/面试/秋招/迅雷/GCD.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/面试/秋招/迅雷/Test1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/面试/秋招/迅雷/Test2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/项目/BaseDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/项目/NtpDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/项目/SolrDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/项目/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/项目/pojo/TbItem.class" beforeDir="false" />
     </list>
     <list id="e8d21b56-62bb-4d0a-ac66-f3b8b6ef4a21" name="每日一题" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -85,6 +287,9 @@
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/算法/leetcode/database/hard" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="算法.leetcode" />
       <recent name="线程.慕课并发教程" />
@@ -117,37 +322,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Leetcode503">
-    <configuration name="Leetcode1518" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="算法.leetcode.algorithms.easy.Leetcode1518" />
-      <module name="Learning-Notebook" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="算法.leetcode.algorithms.easy.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Leetcode5699">
     <configuration name="Leetcode263" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="算法.leetcode.algorithms.easy.Leetcode263" />
-      <module name="Learning-Notebook" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="算法.leetcode.algorithms.easy.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Leetcode338" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="算法.leetcode.algorithms.medium.Leetcode338" />
       <module name="Learning-Notebook" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -174,8 +351,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Leetcode953" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="算法.leetcode.algorithms.easy.Leetcode953" />
+    <configuration name="Leetcode5697" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="算法.leetcode.algorithms.easy.Leetcode5697" />
       <module name="Learning-Notebook" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -188,16 +365,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="归并排序" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="算法.归并排序" />
-      <module name="JavaBase" />
+    <configuration name="Leetcode5699" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="算法.leetcode.algorithms.medium.Leetcode5699" />
+      <module name="Learning-Notebook" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="算法.*" />
+          <option name="PATTERN" value="算法.leetcode.algorithms.medium.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Leetcode5700" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="算法.leetcode.algorithms.hard.Leetcode5700" />
+      <module name="Learning-Notebook" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="算法.leetcode.algorithms.hard.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -224,19 +418,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Leetcode338" />
       <item itemvalue="Application.Leetcode503" />
-      <item itemvalue="Application.Leetcode1518" />
-      <item itemvalue="Application.Leetcode953" />
       <item itemvalue="Application.Leetcode263" />
+      <item itemvalue="Application.Leetcode5697" />
+      <item itemvalue="Application.Leetcode5700" />
+      <item itemvalue="Application.Leetcode5699" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Leetcode5699" />
+        <item itemvalue="Application.Leetcode5700" />
+        <item itemvalue="Application.Leetcode5697" />
         <item itemvalue="Application.Leetcode503" />
         <item itemvalue="Application.Leetcode263" />
-        <item itemvalue="Application.Leetcode953" />
-        <item itemvalue="Application.Leetcode1518" />
-        <item itemvalue="Application.Leetcode338" />
       </list>
     </recent_temporary>
   </component>
@@ -591,6 +785,17 @@
       <workItem from="1614516490912" duration="1093000" />
       <workItem from="1614783970053" duration="1903000" />
       <workItem from="1615013443104" duration="20743000" />
+      <workItem from="1615046958205" duration="484000" />
+      <workItem from="1615083046657" duration="541000" />
+      <workItem from="1615083862648" duration="40000" />
+      <workItem from="1615083987778" duration="135000" />
+      <workItem from="1615084212603" duration="78000" />
+      <workItem from="1615084376329" duration="246000" />
+      <workItem from="1615084747228" duration="42000" />
+      <workItem from="1615085007288" duration="70000" />
+      <workItem from="1615085172263" duration="201000" />
+      <workItem from="1615085555356" duration="686000" />
+      <workItem from="1615088717900" duration="12168000" />
     </task>
     <servers />
   </component>

@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="179aa664-a957-43fc-a040-6fcf8a3c0c77" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/算法/leetcode/algorithms/easy/Leetcode21.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/算法/leetcode/algorithms/easy/leetcode706/MyHashMap.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <list id="e8d21b56-62bb-4d0a-ac66-f3b8b6ef4a21" name="每日一题" comment="" />
@@ -121,7 +121,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Student">
+  <component name="RunManager" selected="Application.MyHashMap">
     <configuration name="Leetcode1047" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="算法.leetcode.algorithms.easy.Leetcode1047" />
       <module name="Learning-Notebook" />
@@ -150,8 +150,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Leetcode5699" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="算法.leetcode.algorithms.medium.Leetcode5699" />
+    <configuration name="Leetcode784" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="算法.leetcode.algorithms.medium.Leetcode784" />
       <module name="Learning-Notebook" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -164,13 +164,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Leetcode784" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="算法.leetcode.algorithms.medium.Leetcode784" />
+    <configuration name="MyHashMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="算法.leetcode.algorithms.easy.leetcode706.MyHashMap" />
       <module name="Learning-Notebook" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="算法.leetcode.algorithms.medium.*" />
+          <option name="PATTERN" value="算法.leetcode.algorithms.easy.leetcode706.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -217,19 +217,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Leetcode5699" />
       <item itemvalue="Application.Leetcode1047" />
       <item itemvalue="Application.Leetcode784" />
       <item itemvalue="Application.Leetcode21" />
       <item itemvalue="Application.Student" />
+      <item itemvalue="Application.MyHashMap" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MyHashMap" />
         <item itemvalue="Application.Student" />
         <item itemvalue="Application.Leetcode21" />
         <item itemvalue="Application.Leetcode784" />
         <item itemvalue="Application.Leetcode1047" />
-        <item itemvalue="Application.Leetcode5699" />
       </list>
     </recent_temporary>
   </component>
@@ -599,7 +599,8 @@
       <workItem from="1615388690941" duration="104000" />
       <workItem from="1615388831805" duration="124000" />
       <workItem from="1615388969622" duration="302000" />
-      <workItem from="1615389287870" duration="2356000" />
+      <workItem from="1615389287870" duration="2675000" />
+      <workItem from="1615694982991" duration="1610000" />
     </task>
     <servers />
   </component>

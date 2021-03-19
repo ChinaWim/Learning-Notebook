@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="179aa664-a957-43fc-a040-6fcf8a3c0c77" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/算法/leetcode/algorithms/easy/Leetcode66.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/算法/leetcode/algorithms/easy/Leetcode1603.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/算法/leetcode/algorithms/medium/Leetcode11.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <list id="e8d21b56-62bb-4d0a-ac66-f3b8b6ef4a21" name="每日一题" comment="" />
@@ -121,7 +122,21 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Leetcode59">
+  <component name="RunManager" selected="Application.Leetcode11">
+    <configuration name="Leetcode11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="算法.leetcode.algorithms.medium.Leetcode11" />
+      <module name="Learning-Notebook" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="算法.leetcode.algorithms.medium.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Leetcode503" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="算法.leetcode.algorithms.medium.Leetcode503" />
       <module name="Learning-Notebook" />
@@ -178,20 +193,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Student" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java8.Student" />
-      <module name="Learning-Notebook" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="java8.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
@@ -217,19 +218,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Student" />
       <item itemvalue="Application.MyHashMap" />
       <item itemvalue="Application.Leetcode503" />
       <item itemvalue="Application.Leetcode54" />
       <item itemvalue="Application.Leetcode59" />
+      <item itemvalue="Application.Leetcode11" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Leetcode11" />
         <item itemvalue="Application.Leetcode59" />
         <item itemvalue="Application.Leetcode54" />
         <item itemvalue="Application.Leetcode503" />
         <item itemvalue="Application.MyHashMap" />
-        <item itemvalue="Application.Student" />
       </list>
     </recent_temporary>
   </component>
@@ -602,7 +603,8 @@
       <workItem from="1615389287870" duration="2675000" />
       <workItem from="1615694982991" duration="7272000" />
       <workItem from="1615818748096" duration="3829000" />
-      <workItem from="1615905356612" duration="1895000" />
+      <workItem from="1615905356612" duration="3274000" />
+      <workItem from="1616166677249" duration="613000" />
     </task>
     <servers />
   </component>

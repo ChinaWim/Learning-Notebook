@@ -10,15 +10,22 @@ package 算法.leetcode.algorithms.medium;
  * 解释：图中垂直线代表输入数组 [1,8,6,2,5,4,8,3,7]。在此情况下，容器能够容纳水（表示为蓝色部分）的最大值为 49。
  *
  * 思路：find (max distance and min diff) 2 number，注意已算过的不要重复计算
+ * 做法一：双指针
+ * 经验：双指针、滑动窗口的问题，一般先从暴力枚举开始思考，然后更改枚举的顺序，以达到剪枝加快计算的效果
  */
 public class Leetcode11 {
 
     public static void main(String[] args) {
         Leetcode11 l = new Leetcode11();
-        System.out.println(l.maxArea(new int[]{2,0}));
+        System.out.println(l.maxArea2(new int[]{2,3,4,5,18,17,6}));
 
     }
 
+    /**
+     * 暴力做法一
+     * @param height
+     * @return
+     */
     public int maxArea(int[] height) {
         int max = 0;
         int i =  0;
@@ -35,5 +42,26 @@ public class Leetcode11 {
 
         }
         return max;
+    }
+
+
+    /**
+     * 双指针做法-贪心思想
+     * @param height
+     * @return
+     */
+    public int maxArea2(int[] height) {
+        int i = 0;
+        int j = height.length - 1;
+        int res = 0;
+        while(i >= 0  && i <= height.length - 1 && j>=0 && j <= height.length - 1){
+          res = Math.max(Math.min(height[i],height[j])*(j-i),res);
+          if(height[i] < height[j]){
+              i++;
+          }else {
+              j --;
+          }
+        }
+        return res;
     }
 }

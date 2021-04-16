@@ -68,15 +68,15 @@ public class SolrDemo {
     /**
      * 批量删除
      */
-    @Test
-    public void delBatch() {
-        var list = new ArrayList<String>();
-        for (int i = 1; i <= 100; i++) {
-            list.add(i + "");
-        }
-        solrTemplate.deleteById(list);
-        solrTemplate.commit();
-    }
+//    @Test
+//    public void delBatch() {
+//        var list = new ArrayList<String>();
+//        for (int i = 1; i <= 100; i++) {
+//            list.add(i + "");
+//        }
+//        solrTemplate.deleteById(list);
+//        solrTemplate.commit();
+//    }
 
     /**
      * 按条件删除全部

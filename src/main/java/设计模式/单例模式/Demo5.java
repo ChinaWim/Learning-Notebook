@@ -6,7 +6,8 @@ package 设计模式.单例模式;
  */
 public enum Demo5 {
 
-    getInstance;
+    getInstance,
+    xxxx;
 
     private Demo5Instance demo5Instance;
 
@@ -15,14 +16,17 @@ public enum Demo5 {
     }
 
     Demo5() { //只初始化一次
+        System.out.println("初始化pre");
         demo5Instance = new Demo5Instance();
+        System.out.println("初始化after");
     }
 
     public static void main(String[] args) {
         Demo5Instance demo5Instance = Demo5.getInstance.getDemo5Instance();
         Demo5Instance demo5Instance2 = Demo5.getInstance.getDemo5Instance();
-        System.out.println(demo5Instance2.hashCode());
         System.out.println(demo5Instance.hashCode());
+        System.out.println(demo5Instance2.hashCode());
+        System.out.println(Demo5.xxxx.getDemo5Instance().hashCode());
     }
 
 }

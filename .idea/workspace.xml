@@ -2,8 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="179aa664-a957-43fc-a040-6fcf8a3c0c77" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/算法/leetcode/algorithms/medium/Leetcode150.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/java8/默认静态方法/Demo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java8/默认静态方法/Demo1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/设计模式/单例模式/Demo5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/设计模式/单例模式/Demo5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/语法/位运算/Demo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/语法/位运算/Demo1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/项目/SolrDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/项目/SolrDemo.java" afterDir="false" />
     </list>
     <list id="e8d21b56-62bb-4d0a-ac66-f3b8b6ef4a21" name="每日一题" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -79,11 +84,11 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.14872637" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="yiiguxing.plugin.translate" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -121,14 +126,14 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Leetcode150">
-    <configuration name="Leetcode11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="算法.leetcode.algorithms.medium.Leetcode11" />
+  <component name="RunManager" selected="Application.Demo1 (1)">
+    <configuration name="Demo1 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="语法.位运算.Demo1" />
       <module name="Learning-Notebook" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="算法.leetcode.algorithms.medium.*" />
+          <option name="PATTERN" value="语法.位运算.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -136,13 +141,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Leetcode150" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="算法.leetcode.algorithms.medium.Leetcode150" />
+    <configuration name="Demo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java8.默认静态方法.Demo1" />
       <module name="Learning-Notebook" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="算法.leetcode.algorithms.medium.*" />
+          <option name="PATTERN" value="java8.默认静态方法.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -150,41 +155,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Leetcode503" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="算法.leetcode.algorithms.medium.Leetcode503" />
+    <configuration name="HelloNative" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jni.HelloNative" />
       <module name="Learning-Notebook" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="算法.leetcode.algorithms.medium.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Leetcode54" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="算法.leetcode.algorithms.medium.Leetcode54" />
-      <module name="Learning-Notebook" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="算法.leetcode.algorithms.medium.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Leetcode59" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="算法.leetcode.algorithms.medium.Leetcode59" />
-      <module name="Learning-Notebook" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="算法.leetcode.algorithms.medium.*" />
+          <option name="PATTERN" value="jni.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -194,6 +171,42 @@
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Learning-Notebook" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="java8.并行流.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="java8.并行流" />
+      <option name="MAIN_CLASS_NAME" value="java8.并行流.Demo" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TryCatch.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Learning-Notebook" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exception.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="exception" />
+      <option name="MAIN_CLASS_NAME" value="exception.TryCatch" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -217,19 +230,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Leetcode503" />
-      <item itemvalue="Application.Leetcode54" />
-      <item itemvalue="Application.Leetcode59" />
-      <item itemvalue="Application.Leetcode11" />
-      <item itemvalue="Application.Leetcode150" />
+      <item itemvalue="Application.HelloNative" />
+      <item itemvalue="Application.Demo1" />
+      <item itemvalue="JUnit.Demo.test1" />
+      <item itemvalue="JUnit.TryCatch.test1" />
+      <item itemvalue="Application.Demo1 (1)" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Leetcode150" />
-        <item itemvalue="Application.Leetcode11" />
-        <item itemvalue="Application.Leetcode59" />
-        <item itemvalue="Application.Leetcode54" />
-        <item itemvalue="Application.Leetcode503" />
+        <item itemvalue="Application.Demo1 (1)" />
+        <item itemvalue="JUnit.TryCatch.test1" />
+        <item itemvalue="JUnit.Demo.test1" />
+        <item itemvalue="Application.Demo1" />
+        <item itemvalue="Application.HelloNative" />
       </list>
     </recent_temporary>
   </component>
@@ -605,6 +618,8 @@
       <workItem from="1615905356612" duration="3274000" />
       <workItem from="1616166677249" duration="2148000" />
       <workItem from="1616206430633" duration="7681000" />
+      <workItem from="1618456278649" duration="4120000" />
+      <workItem from="1618577894082" duration="4492000" />
     </task>
     <servers />
   </component>
